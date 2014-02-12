@@ -1,0 +1,2339 @@
+{
+   "checksum": "e9590928bd287e602e9836b882684928",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13021980851833067",
+            "id": "4",
+            "name": "VPNYou Project",
+            "type": "url",
+            "url": "https://cngov.me/"
+         }, {
+            "date_added": "13021980932184237",
+            "id": "5",
+            "name": "Ruby China",
+            "type": "url",
+            "url": "http://ruby-china.org/"
+         }, {
+            "date_added": "13022148666623397",
+            "id": "7",
+            "name": "Ubuntu\u4E2D\u6587",
+            "type": "url",
+            "url": "http://wiki.ubuntu.org.cn/%E9%A6%96%E9%A1%B5"
+         }, {
+            "date_added": "13031987931444505",
+            "id": "361",
+            "name": "mikoomi-hadoop-jobtracker-plugin-helper.sh",
+            "type": "url",
+            "url": "file:///home/akaer/Desktop/mikoomi-hadoop-jobtracker-plugin-helper.sh"
+         }, {
+            "date_added": "13022153519637664",
+            "id": "8",
+            "name": "Ubuntu in Launchpad",
+            "type": "url",
+            "url": "https://launchpad.net/ubuntu"
+         }, {
+            "children": [ {
+               "date_added": "13022154883395389",
+               "id": "9",
+               "name": "Puppet on Ubuntu 12.04 LTS \u2014 Felix' Wobsite",
+               "type": "url",
+               "url": "http://felixhummel.github.io/blag/admin/puppet.html"
+            }, {
+               "date_added": "13022155483465892",
+               "id": "11",
+               "name": "Installing Puppet \u2014 Documentation \u2014 Puppet Labs",
+               "type": "url",
+               "url": "http://docs.puppetlabs.com/guides/installation.html"
+            }, {
+               "date_added": "13022155494858761",
+               "id": "12",
+               "name": "Puppet \u4F7F\u7528\u65B9\u6CD5\u603B\u7ED3 - yasi_xi\u7684\u4E13\u680F - \u535A\u5BA2\u9891\u9053 - CSDN.NET",
+               "type": "url",
+               "url": "http://blog.csdn.net/yasi_xi/article/details/8184002"
+            }, {
+               "date_added": "13022155571065262",
+               "id": "13",
+               "name": "[all variants] HOW-TO: Install Puppet Server With Passenger On Ubuntu 12.04 Server",
+               "type": "url",
+               "url": "http://ubuntuforums.org/showthread.php?t=2085991"
+            }, {
+               "date_added": "13022155598577044",
+               "id": "14",
+               "name": "Puppet\u4F7F\u7528\u65B9\u6CD5\u603B\u7ED3 | \u8463\u7684\u535A\u5BA2",
+               "type": "url",
+               "url": "http://dongxicheng.org/cluster-managemant/puppet/"
+            }, {
+               "date_added": "13022155621944935",
+               "id": "15",
+               "name": "Puppet\u5B66\u4E60\u7B14\u8BB0(CentOS6.3+Puppet3.01) \u00BB \u9648\u6C99\u514B\u65E5\u5FD7",
+               "type": "url",
+               "url": "http://www.chenshake.com/puppet-study-notes/"
+            }, {
+               "date_added": "13022155629880925",
+               "id": "16",
+               "name": "The Inuits | Inuits",
+               "type": "url",
+               "url": "http://inuits.eu/blog/puppet-sslv3-alert-certificate-revoked"
+            }, {
+               "date_added": "13022155633952897",
+               "id": "17",
+               "name": "puppet\u5B66\u4E60\u4E4Bpuppet\u8BC1\u4E66\u9A8C\u8BC1-\u98DE\u9E3F\u65E0\u75D5-ChinaUnix\u535A\u5BA2",
+               "type": "url",
+               "url": "http://blog.chinaunix.net/uid-20639775-id-3313168.html"
+            }, {
+               "date_added": "13022061793573988",
+               "id": "6",
+               "name": "puppet\u4E2D\u6587\u793E\u533A_puppet\u8FD0\u7EF4\u81EA\u52A8\u5316puppet \u8BBA\u575B_puppet\u4E2D\u6587_puppet \u793E\u533A - Powered by Discuz!",
+               "type": "url",
+               "url": "http://puppetfans.com/"
+            }, {
+               "date_added": "13022216179600580",
+               "id": "18",
+               "name": "Puppet errors explained | bitcube.co.uk",
+               "type": "url",
+               "url": "http://bitcube.co.uk/content/puppet-errors-explained"
+            }, {
+               "date_added": "13022239849617209",
+               "id": "19",
+               "name": "puppet_manifest\u8BE6\u89E3",
+               "type": "url",
+               "url": "http://369369.blog.51cto.com/319630/807971"
+            }, {
+               "date_added": "13022242970946519",
+               "id": "20",
+               "name": "error_copyfile",
+               "type": "url",
+               "url": "http://askubuntu.com/questions/90015/how-to-copy-files-to-all-machines-using-puppet-master"
+            }, {
+               "date_added": "13022243005965075",
+               "id": "21",
+               "name": "\u5E38\u89C1\u9519\u8BEF",
+               "type": "url",
+               "url": "http://www.mysqlops.com/2011/11/08/puppet-errors.html"
+            }, {
+               "date_added": "13022243171901712",
+               "id": "22",
+               "name": "\u53C2\u8003-dashboard",
+               "type": "url",
+               "url": "http://host1.no/blog/puppet/how-to-install-puppet-and-puppet-dashboard/"
+            }, {
+               "date_added": "13022243594412984",
+               "id": "23",
+               "name": "dashboard\u5B89\u88C5\u5B98\u65B9",
+               "type": "url",
+               "url": "http://docs.puppetlabs.com/dashboard/manual/1.2/bootstrapping.html"
+            }, {
+               "date_added": "13022244627831827",
+               "id": "24",
+               "name": "\u5728CentOS 6.4\u4E0A\u5B89\u88C5Puppet\u914D\u7F6E\u7BA1\u7406\u5DE5\u5177 | CactiFans",
+               "type": "url",
+               "url": "http://www.cactifans.org/index.php/2013/05/%E5%9C%A8centos-6-4%E4%B8%8A%E5%AE%89%E8%A3%85puppet%E9%85%8D%E7%BD%AE%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7/"
+            }, {
+               "date_added": "13022558830103869",
+               "id": "25",
+               "name": "\u6709\u9053\u4E91\u7B14\u8BB0",
+               "type": "url",
+               "url": "http://note.youdao.com/web/list?version=457099&notebook=%2F&sortMode=0&note=%2FWCPVLap%2Fweb1377752117132"
+            } ],
+            "date_added": "13022154900106458",
+            "date_modified": "13022669882325405",
+            "id": "10",
+            "name": "puppet",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13022669882325405",
+               "id": "26",
+               "name": "HTTP\u4EE3\u7406\u4E0ESPDY\u534F\u8BAE - \u535A\u5BA2 - \u4F2F\u4E50\u5728\u7EBF",
+               "type": "url",
+               "url": "http://blog.jobbole.com/42763/"
+            }, {
+               "date_added": "13022826542587112",
+               "id": "38",
+               "name": "Openssl\u5EFA\u7ACB\u6839CA\u53CA\u8BC1\u4E66\u7684\u81EA\u7B7E\u548C\u9881\u53D1 - linux - 51CTO\u6280\u672F\u535A\u5BA2",
+               "type": "url",
+               "url": "http://fengzhilinux.blog.51cto.com/1343279/291727"
+            } ],
+            "date_added": "13022669897168466",
+            "date_modified": "13022826876497340",
+            "id": "27",
+            "name": "ssl",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13022758699118945",
+               "id": "28",
+               "name": "Squid\u6743\u5A01\u6307\u5357",
+               "type": "url",
+               "url": "http://home.arcor.de/pangj/squid/chap15.html"
+            }, {
+               "date_added": "13022758722337512",
+               "id": "30",
+               "name": "Squid \u914D\u7F6EHttps\u670D\u52A1(SSL) | Yangbo's Blog",
+               "type": "url",
+               "url": "http://yangbo.name/archives/1296.html"
+            }, {
+               "date_added": "13022758731273752",
+               "id": "31",
+               "name": "\u6276\u51EF",
+               "type": "url",
+               "url": "http://www.php-oa.com/2008/04/08/squid-ssl.html"
+            }, {
+               "date_added": "13022758760410101",
+               "id": "32",
+               "name": "\u7528squid\u505Ahttps\u4EE3\u7406\u7684\u95EE\u9898 - \u5E94\u7528\u52A0\u901F - LinuxTone | \u8FD0\u7EF4\u4E13\u5BB6\u7F51\u8BBA\u575B - \u6700\u68D2\u7684Linux\u8FD0\u7EF4\u4E0E\u5F00\u6E90\u67B6\u6784\u6280\u672F\u4EA4\u6D41\u793E\u533A! - Powered by Discuz!",
+               "type": "url",
+               "url": "http://bbs.linuxtone.org/thread-10026-1-1.html"
+            }, {
+               "date_added": "13022758786314608",
+               "id": "33",
+               "name": "How to Install and Configure Proxy Server with Squid3 in Ubuntu Server 12.04 | Ubuntu Server Guide",
+               "type": "url",
+               "url": "http://ubuntuserverguide.com/2012/05/how-to-install-and-configure-proxy-server-with-squid3-on-ubuntu-server-12-04-lts.html"
+            }, {
+               "date_added": "13022759276531979",
+               "id": "34",
+               "name": "How To: Configure Squid Proxy Server",
+               "type": "url",
+               "url": "http://gofedora.com/how-to-configure-squid-proxy-server/"
+            }, {
+               "date_added": "13022819002806226",
+               "id": "35",
+               "name": "Squid\u6743\u5A01\u6307\u5357",
+               "type": "url",
+               "url": "http://home.arcor.de/pangj/squid/chap03.html#a4"
+            }, {
+               "date_added": "13022826274386080",
+               "id": "36",
+               "name": "Features/MimicSslServerCert - Squid Web Proxy Wiki",
+               "type": "url",
+               "url": "http://wiki.squid-cache.org/Features/MimicSslServerCert"
+            }, {
+               "date_added": "13022826279055294",
+               "id": "37",
+               "name": "ConfigExamples/Reverse/SslWithWildcardCertifiate - Squid Web Proxy Wiki",
+               "type": "url",
+               "url": "http://wiki.squid-cache.org/ConfigExamples/Reverse/SslWithWildcardCertifiate"
+            } ],
+            "date_added": "13022758711361354",
+            "date_modified": "13022826542587112",
+            "id": "29",
+            "name": "squid",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13022826876497340",
+               "id": "39",
+               "name": "Linux Virtual Server (LVS) \u5BE6\u4F5C\u7B46\u8A18 - ubuntu,debian,mint,redhat -linuxany.com",
+               "type": "url",
+               "url": "http://www.linuxany.com/archives/167.html"
+            }, {
+               "date_added": "13022929946986527",
+               "id": "41",
+               "name": "dd",
+               "type": "url",
+               "url": "http://linux.vbird.org/linux_basic/0240tarcompress.php"
+            } ],
+            "date_added": "13022826887865868",
+            "date_modified": "13023166523690528",
+            "id": "40",
+            "name": "lvs",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13024388247508823",
+               "id": "71",
+               "name": "\u7406\u89E3 bashrc \u548C profile - { wido.me }",
+               "type": "url",
+               "url": "https://wido.me/sunteya/understand-bashrc-and-profile/"
+            }, {
+               "date_added": "13024806387367439",
+               "id": "95",
+               "name": "AlpUsersAndGroups \u2013 elpi",
+               "type": "url",
+               "url": "http://sourceforge.net/apps/trac/elpi/wiki/AlpUsersAndGroups"
+            }, {
+               "date_added": "13024806416842109",
+               "id": "96",
+               "name": "Linux\u6587\u4EF6\u4E0E\u76EE\u5F55\u7BA1\u7406",
+               "type": "url",
+               "url": "http://www.92csz.com/study/linux/6.htm"
+            }, {
+               "date_added": "13024825184249620",
+               "id": "99",
+               "name": "(\u8F6C) ubuntu\u4E0B\u8BBE\u7F6E\u7A0B\u5E8F\u5F00\u673A\u81EA\u542F\u52A8\u7684\u51E0\u79CD\u65B9\u6CD5 \u5206\u4EAB_LAMP_\u65B0\u6D6A\u535A\u5BA2",
+               "type": "url",
+               "url": "http://blog.sina.com.cn/s/blog_51a5e5f40100rf3p.html"
+            }, {
+               "date_added": "13024825201361824",
+               "id": "100",
+               "name": "ubuntu\u4E0B\u8BBE\u7F6E\u5F00\u673A\u81EA\u542F\u52A8\u9879 - \u65E5\u79EF\u6708\u7D2F - 51CTO\u6280\u672F\u535A\u5BA2",
+               "type": "url",
+               "url": "http://dchampion.blog.51cto.com/2840748/821824"
+            }, {
+               "date_added": "13024833597698777",
+               "id": "111",
+               "name": "Ubuntu \u5E38\u7528\u8EDF\u9AD4\u4ECB\u7D39 - Ubuntu \u6B63\u9AD4\u4E2D\u6587 Wiki",
+               "type": "url",
+               "url": "http://wiki.ubuntu-tw.org/index.php?title=Ubuntu_%E5%B8%B8%E7%94%A8%E8%BB%9F%E9%AB%94%E4%BB%8B%E7%B4%B9"
+            }, {
+               "date_added": "13024917567328726",
+               "id": "117",
+               "name": "ubuntu\u4E0Bcli\u8FDE\u63A5\u65E0\u7EBF\u7F51\u7EDC-whxlovehy-ChinaUnix\u535A\u5BA2",
+               "type": "url",
+               "url": "http://blog.chinaunix.net/uid-26497520-id-3923097.html"
+            }, {
+               "date_added": "13024978460058397",
+               "id": "120",
+               "name": "Ubuntu \u7CFB\u7EDF\u4E2D\u7528 BIND 9 \u5EFA\u7ACB DNS \u670D\u52A1\u5668 | IT\u4E0D\u5012\u7FC1",
+               "type": "url",
+               "url": "http://yungbo.com/linux/this-is-just-the-process-of-setting-up-my-dns-to-make-a-summary-of-the-principle-of-no-explanation-for-dns.html"
+            }, {
+               "date_added": "13026032625088944",
+               "id": "184",
+               "name": "\u5B66\u4E60 Linux\uFF0C101: \u521B\u5EFA\u5206\u533A\u548C\u6587\u4EF6\u7CFB\u7EDF",
+               "type": "url",
+               "url": "http://www.ibm.com/developerworks/cn/linux/l-lpic1-v3-104-1/"
+            }, {
+               "date_added": "13026892489725167",
+               "id": "206",
+               "name": "\uFF08\u603B\u7ED3\uFF09MySQL\u81EA\u5E26\u7684\u6027\u80FD\u538B\u529B\u6D4B\u8BD5\u5DE5\u5177mysqlslap\u8BE6\u89E3",
+               "type": "url",
+               "url": "http://www.ha97.com/5182.html"
+            }, {
+               "date_added": "13026910080350544",
+               "id": "215",
+               "name": "\u5185\u6838/\u7F16\u8BD1 - Community Ubuntu Documentation",
+               "type": "url",
+               "url": "https://help.ubuntu.com/community/%E5%86%85%E6%A0%B8/%E7%BC%96%E8%AF%91"
+            }, {
+               "date_added": "13026910244289276",
+               "id": "216",
+               "name": "Linux\u5185\u6838\u7F16\u8BD1\u8FC7\u7A0B\u8BE6\u89E3 | \u6D41\u661F\u96EA",
+               "type": "url",
+               "url": "http://www.fengwenxuan.com/rhelinux/1366.html"
+            }, {
+               "date_added": "13026910560991543",
+               "id": "217",
+               "name": "\u5982\u4F55\u7F16\u8BD1Linux\u5185\u6838 - cdsnmdl\u7684\u4E13\u680F - \u535A\u5BA2\u9891\u9053 - CSDN.NET",
+               "type": "url",
+               "url": "http://blog.csdn.net/cdsnmdl/article/details/3922513"
+            }, {
+               "date_added": "13026910634688688",
+               "id": "218",
+               "name": "Linux \u5185\u6838\u7F16\u8BD1\u8BE6\u89E3 - \uFF5E \u60A0\u60A0\u98CE\u4FE1\u5B50 \uFF5E - \u535A\u5BA2\u9891\u9053 - CSDN.NET",
+               "type": "url",
+               "url": "http://blog.csdn.net/youyoufengxinzi/article/details/1516263"
+            }, {
+               "date_added": "13027765550896975",
+               "id": "265",
+               "name": "\u6280\u8853\u5C08\u6B04 - \u7DB2\u7BA1\u4EBANetAdmin",
+               "type": "url",
+               "url": "http://www.netadmin.com.tw/article_index.aspx?si=2"
+            }, {
+               "date_added": "13032008148095784",
+               "id": "362",
+               "name": "Network Configuration",
+               "type": "url",
+               "url": "https://help.ubuntu.com/10.04/serverguide/network-configuration.html"
+            } ],
+            "date_added": "13023166546555207",
+            "date_modified": "13032253152643121",
+            "id": "43",
+            "name": "ubuntu",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13023166523690528",
+               "id": "42",
+               "name": "UbuntuBonding - Community Ubuntu Documentation",
+               "type": "url",
+               "url": "https://help.ubuntu.com/community/UbuntuBonding"
+            } ],
+            "date_added": "13023166546555841",
+            "date_modified": "13023182493003439",
+            "id": "44",
+            "name": "bonding",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13023182493003439",
+               "id": "45",
+               "name": "Feng Office Wiki",
+               "type": "url",
+               "url": "http://www.fengoffice.com/web/wiki/doku.php/documents"
+            }, {
+               "date_added": "13025428566254977",
+               "id": "130",
+               "name": "Feng Office Wiki",
+               "type": "url",
+               "url": "http://www.fengoffice.com/web/wiki/doku.php/copy_installation"
+            }, {
+               "date_added": "13025500519914413",
+               "id": "131",
+               "name": "Feng Office Wiki",
+               "type": "url",
+               "url": "http://www.fengoffice.com/web/wiki/doku.php/troubleshooting"
+            }, {
+               "date_added": "13025502270968533",
+               "id": "132",
+               "name": "\u98CE\u901F\u534F\u540C \u00AB Fengoffice\u4E2D\u6587\u7F51\uFF0C\u7B80\u6D01\u5FEB\u901F\u7684\u529E\u516C\u534F\u540C\u7A0B\u5E8F",
+               "type": "url",
+               "url": "http://www.fengoffice.cn/"
+            }, {
+               "date_added": "13025508350938525",
+               "id": "133",
+               "name": "Sidekiq not starting (with solution) \u00B7 Issue #2995 \u00B7 gitlabhq/gitlabhq",
+               "type": "url",
+               "url": "https://github.com/gitlabhq/gitlabhq/issues/2995"
+            }, {
+               "date_added": "13025509174432969",
+               "id": "134",
+               "name": "Feng Office: Project Management and more - Browse /fengoffice at SourceForge.net",
+               "type": "url",
+               "url": "http://sourceforge.net/projects/opengoo/files/fengoffice/"
+            }, {
+               "date_added": "13025509339645589",
+               "id": "135",
+               "name": "backup fengoffice",
+               "type": "url",
+               "url": "http://www.fengoffice.com/web/wiki/doku.php/backup"
+            }, {
+               "date_added": "13025509465537329",
+               "id": "136",
+               "name": "upgrade fengoffice",
+               "type": "url",
+               "url": "http://joejiko.com/blog/upgrade-latest-version-feng-office-easy-version/"
+            }, {
+               "date_added": "13025676609310441",
+               "id": "141",
+               "name": "Feng Office ldap",
+               "type": "url",
+               "url": "http://www.fengoffice.com/web/wiki/doku.php/ldap"
+            } ],
+            "date_added": "13023182505532249",
+            "date_modified": "13025676732699469",
+            "id": "46",
+            "name": "fengoffice",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13023184903318420",
+               "id": "47",
+               "name": "Hadoop \u53C3\u6578\u8A2D\u5B9A \u2013 hdfs-site.xml \u00AB Fenriswolf \u7A0B\u5F0F\u7B46\u8A18",
+               "type": "url",
+               "url": "http://fenriswolf.me/2012/05/25/hadoop-%E5%8F%83%E6%95%B8%E8%A8%AD%E5%AE%9A-hdfs-site-xml/"
+            }, {
+               "date_added": "13024383838205133",
+               "id": "69",
+               "name": "HadoopJavaVersions - Hadoop Wiki",
+               "type": "url",
+               "url": "http://wiki.apache.org/hadoop/HadoopJavaVersions"
+            }, {
+               "date_added": "13024385148811992",
+               "id": "70",
+               "name": "\u963F\u8C9D\u597D\u5A01\u7684\u5BE6\u9A57\u5BA4: \u4F55\u6642Hadoop \u624D\u80FD\u6B63\u5F0F\u8F49\u63DB\u81F3 JDK7 ?",
+               "type": "url",
+               "url": "http://lab.howie.tw/2013/04/hadoop-jdk7.html"
+            }, {
+               "date_added": "13024467059629929",
+               "id": "76",
+               "name": "Hadoop\u90E8\u7F72\u8BE6\u7EC6\u8BF4\u660E\u2014\u2014\u5355\u673A\u90E8\u7F72 - RichardHu - \u535A\u5BA2\u56ED",
+               "type": "url",
+               "url": "http://www.cnblogs.com/richardhu1991/archive/2011/10/14/2196972.html"
+            }, {
+               "date_added": "13030703049762586",
+               "id": "339",
+               "name": "Taiwan Hadoop Forum \u2022 \u9996\u9801",
+               "type": "url",
+               "url": "http://forum.hadoop.tw/index.php"
+            }, {
+               "date_added": "13030704793222767",
+               "id": "340",
+               "name": "Ganglia:: hadoop Cluster Report",
+               "type": "url",
+               "url": "http://hadoop.nchc.org.tw/ganglia/?r=2hr&cs=&ce=&m=load_one&s=by+name&c=hadoop&h=&host_regex=&max_graphs=0&tab=m&vn=&sh=1&z=small&hc=4"
+            }, {
+               "date_added": "13030706961025633",
+               "id": "341",
+               "name": "cszer",
+               "type": "url",
+               "url": "http://www.cszhi.com/"
+            }, {
+               "date_added": "13031114987163355",
+               "id": "345",
+               "name": "GangliaMetrics - Hadoop Wiki",
+               "type": "url",
+               "url": "http://wiki.apache.org/hadoop/GangliaMetrics"
+            }, {
+               "date_added": "13031114997622640",
+               "id": "346",
+               "name": "Hadoop\u96C6\u7FA4\u76D1\u6D4B\u5DE5\u5177\u2014\u2014ganglia\u5B89\u88C5\u5B9E\u4F8B - - \u535A\u5BA2\u9891\u9053 - CSDN.NET",
+               "type": "url",
+               "url": "http://blog.csdn.net/yangning5850/article/details/8646775"
+            } ],
+            "date_added": "13023184924110245",
+            "date_modified": "13031115015999492",
+            "id": "48",
+            "name": "hadoop",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13023263435052047",
+               "id": "49",
+               "name": "git - the simple guide - no deep shit!",
+               "type": "url",
+               "url": "http://rogerdudler.github.io/git-guide/index.zh.html"
+            }, {
+               "date_added": "13023263497501528",
+               "id": "51",
+               "name": "Git \u6559\u5B78(1) : Git \u7684\u57FA\u672C\u4F7F\u7528 - \u597D\u9EBB\u7169\u90E8\u843D\u683C",
+               "type": "url",
+               "url": "http://gogojimmy.net/2012/01/17/how-to-use-git-1-git-basic/"
+            }, {
+               "date_added": "13023263747843323",
+               "id": "52",
+               "name": "Set Up Git \u00B7 GitHub Help",
+               "type": "url",
+               "url": "https://help.github.com/articles/set-up-git"
+            }, {
+               "date_added": "13023264582379407",
+               "id": "53",
+               "name": "Ubuntu-Set Up Your Git Environment",
+               "type": "url",
+               "url": "http://yuilibrary.com/yui/docs/tutorials/git/"
+            }, {
+               "date_added": "13023265565782092",
+               "id": "54",
+               "name": "Git \u6559\u7A0B - Git \u57FA\u672C\u7528\u6CD5 | Lugir",
+               "type": "url",
+               "url": "http://lugir.com/git-basic.html"
+            }, {
+               "date_added": "13023265654312152",
+               "id": "55",
+               "name": "Git\u5386\u9669\u8BB0\uFF08\u4E8C\uFF09\u2014\u2014Git\u7684\u5B89\u88C5\u548C\u914D\u7F6E",
+               "type": "url",
+               "url": "http://www.infoq.com/cn/news/2011/01/git-adventures-install-config"
+            }, {
+               "date_added": "13023270033349590",
+               "id": "56",
+               "name": "GitHub",
+               "type": "url",
+               "url": "https://github.com/"
+            }, {
+               "date_added": "13023270827955458",
+               "id": "57",
+               "name": "gitlabhq/gitlabhq-5.3stable",
+               "type": "url",
+               "url": "https://github.com/gitlabhq/gitlabhq/tree/5-3-stable"
+            }, {
+               "date_added": "13025418924653682",
+               "id": "129",
+               "name": "How to Migrate GitLab Repositories to a New ServerLBoynton.com | LBoynton.com",
+               "type": "url",
+               "url": "http://lboynton.com/2013/01/29/how-to-migrate-gitlab-repositories-to-a-new-server/"
+            }, {
+               "date_added": "13025676732699469",
+               "id": "142",
+               "name": "ldap",
+               "type": "url",
+               "url": "https://github.com/patthoyts/gitlabhq/wiki/Setting-up-ldap-auth"
+            }, {
+               "date_added": "13025761730719524",
+               "id": "157",
+               "name": "\u5982\u4F55\u9AD8\u6548\u5229\u7528GitHub \u2190 \u9633\u5FD7\u5E73\u7684\u4E2A\u4EBA\u7F51\u7AD9::\u6280\u672F",
+               "type": "url",
+               "url": "http://www.yangzhiping.com/tech/github.html"
+            }, {
+               "date_added": "13025762250323258",
+               "id": "158",
+               "name": "ubuntu\u4E0Bgit\u5B89\u88C5\u4E0E\u4F7F\u7528\u7B14\u8BB0 | \u4E95\u957F Jason Yu",
+               "type": "url",
+               "url": "http://jasonyu.cn/html/2009/30.html"
+            }, {
+               "date_added": "13025843257751159",
+               "id": "162",
+               "name": "gitlabhq/doc/raketasks/maintenance.md at 5-3-stable \u00B7 gitlabhq/gitlabhq",
+               "type": "url",
+               "url": "https://github.com/gitlabhq/gitlabhq/blob/5-3-stable/doc/raketasks/maintenance.md"
+            }, {
+               "date_added": "13025847707343405",
+               "id": "163",
+               "name": "Howto enable LDAP filters in GitLab | dimaj.net",
+               "type": "url",
+               "url": "http://blog.dimaj.net/content/howto-enable-ldap-filters-gitlab"
+            }, {
+               "date_added": "13025848672605486",
+               "id": "164",
+               "name": "ldap-sourcecode",
+               "type": "url",
+               "url": "http://www.redmine.org/projects/redmine/repository/revisions/9258/entry/trunk/app/models/auth_source_ldap.rb"
+            }, {
+               "date_added": "13025849931646509",
+               "id": "165",
+               "name": "ldap-only",
+               "type": "url",
+               "url": "http://feedback.gitlab.com/forums/176466-general/suggestions/3788023-only-allow-login-via-ldap"
+            }, {
+               "date_added": "13025858199682770",
+               "id": "166",
+               "name": "Git \u521D\u5B78\u7B46\u8A18 - \u6307\u4EE4\u64CD\u4F5C\u6559\u5B78 - Tsung's Blog",
+               "type": "url",
+               "url": "http://blog.longwin.com.tw/2009/05/git-learn-initial-command-2009/"
+            }, {
+               "date_added": "13025948219320680",
+               "id": "170",
+               "name": "restore-repo",
+               "type": "url",
+               "url": "https://github.com/gitlabhq/gitlabhq/issues/2913"
+            }, {
+               "date_added": "13025958724236695",
+               "id": "171",
+               "name": "backup_restore_githints",
+               "type": "url",
+               "url": "http://serverfault.com/questions/506540/what-is-the-best-way-to-backup-and-restore-gitlab"
+            }, {
+               "date_added": "13025981859094561",
+               "id": "172",
+               "name": "How I use different fetch & push URLs in Git - Technosorcery",
+               "type": "url",
+               "url": "http://technosorcery.net/blog/2011/12/26/how-i-use-different-fetch-and-push-urls-in-git/"
+            }, {
+               "date_added": "13025981865898799",
+               "id": "173",
+               "name": "Git Reference",
+               "type": "url",
+               "url": "http://gitref.org/remotes/"
+            }, {
+               "date_added": "13025981877923689",
+               "id": "174",
+               "name": "git\u63D0\u4EA4\u672C\u5730\u5206\u652F\u5230\u8FDC\u7A0B\u5206\u652F - springbarley - \u535A\u5BA2\u56ED",
+               "type": "url",
+               "url": "http://www.cnblogs.com/springbarley/archive/2012/11/03/2752984.html"
+            }, {
+               "date_added": "13025982665344943",
+               "id": "175",
+               "name": "\u7AF9\u8C93\u661F\u7403 \u2022 \u6AA2\u8996\u4E3B\u984C - Git \u5BE6\u505A\u6210\u529F\u4E4B\u7D93\u9A57\u5206\u4EAB",
+               "type": "url",
+               "url": "http://phpbb-tw.net/phpbb/viewtopic.php?t=53959"
+            }, {
+               "date_added": "13030616642697678",
+               "id": "337",
+               "name": "Progit \u4E2D\u6587\u7248",
+               "type": "url",
+               "url": "http://notes.kokoni.org/progit/index"
+            } ],
+            "date_added": "13023263451580918",
+            "date_modified": "13030620833461183",
+            "id": "50",
+            "name": "git",
+            "type": "folder"
+         }, {
+            "date_added": "13023280767095771",
+            "id": "58",
+            "name": "User ericyong - Stack Overflow",
+            "type": "url",
+            "url": "http://stackoverflow.com/users/2764412/ericyong"
+         }, {
+            "children": [ {
+               "date_added": "13024293316943453",
+               "id": "59",
+               "name": "\u3010saltstack\u3011\u76EE\u6D4B\u8FD9\u8D27\u4F1A\u706B | \u4E61\u6751\u8FD0\u7EF4",
+               "type": "url",
+               "url": "http://www.chenqing.org/2013/06/saltstack-in-the-first-glance.html"
+            }, {
+               "date_added": "13024293553272447",
+               "id": "61",
+               "name": "\u707F\u54E5\u7684Blog | saltstack (\u4E8C) grains\u548Cpillar",
+               "type": "url",
+               "url": "http://www.shencan.net/index.php/2013/05/24/saltstack-%E4%BA%8C-grains%E5%92%8Cpillar/"
+            }, {
+               "date_added": "13024293601209512",
+               "id": "62",
+               "name": "\u707F\u54E5\u7684Blog | saltstack\uFF08\u4E00\uFF09",
+               "type": "url",
+               "url": "http://www.shencan.net/index.php/2013/05/24/saltstack%EF%BC%88%E4%B8%80%EF%BC%89/"
+            }, {
+               "date_added": "13024300227521512",
+               "id": "63",
+               "name": "reproduction/om-auto-salt - \u77E5\u8BC6\u5E93\u3010\u4E2D\u56FDSaltStack\u7528\u6237\u7EC4\u3011*\u5173\u952E",
+               "type": "url",
+               "url": "http://wiki.saltstack.cn/reproduction/om-auto-salt"
+            }, {
+               "date_added": "13024301095281596",
+               "id": "64",
+               "name": "Installation",
+               "type": "url",
+               "url": "http://docs.saltstack.com/topics/installation/index.html"
+            }, {
+               "date_added": "13024305610146003",
+               "id": "65",
+               "name": "Full list of builtin state modules",
+               "type": "url",
+               "url": "http://docs.saltstack.com/ref/states/all/index.html"
+            }, {
+               "date_added": "13024376647395147",
+               "id": "66",
+               "name": "Saltstack - ArchWiki",
+               "type": "url",
+               "url": "https://wiki.archlinux.org/index.php/Saltstack"
+            }, {
+               "date_added": "13024379569664557",
+               "id": "67",
+               "name": "reproduction/om-auto-salt - \u77E5\u8BC6\u5E93\u3010\u4E2D\u56FDSaltStack\u7528\u6237\u7EC4\u3011",
+               "type": "url",
+               "url": "http://wiki.saltstack.cn/reproduction/om-auto-salt#nodegroup"
+            }, {
+               "date_added": "13024383043679907",
+               "id": "68",
+               "name": "Compound matchers",
+               "type": "url",
+               "url": "http://docs.saltstack.com/topics/targeting/compound.html"
+            }, {
+               "date_added": "13024567367806157",
+               "id": "88",
+               "name": "\u57FA\u4E8Esaltstack\u5B9E\u73B0\u7684\u914D\u7F6E\u96C6\u4E2D\u5316\u7BA1\u7406[\u539F\u521B] - \u8FD0\u7EF4\u8FDB\u884C\u65F6 - \u4E92\u8054\u7F51\u8FD0\u7EF4\u6280\u672F\u67B6\u6784",
+               "type": "url",
+               "url": "http://blog.liuts.com/post/240/"
+            }, {
+               "date_added": "13027073099895212",
+               "id": "231",
+               "name": "Multi Master Tutorial",
+               "type": "url",
+               "url": "http://docs.saltstack.com/topics/tutorials/multimaster.html"
+            }, {
+               "date_added": "13027138967132924",
+               "id": "232",
+               "name": "Troubleshooting",
+               "type": "url",
+               "url": "http://docs.saltstack.com/topics/troubleshooting/index.html"
+            }, {
+               "date_added": "13028779685753745",
+               "id": "301",
+               "name": "suse 11 sp2 doesn't return pids from service.status \u00B7 Issue #4488 \u00B7 saltstack/salt",
+               "type": "url",
+               "url": "https://github.com/saltstack/salt/issues/4488"
+            } ],
+            "date_added": "13024293331275841",
+            "date_modified": "13028793552981767",
+            "id": "60",
+            "name": "saltstack",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13024392500917408",
+               "id": "72",
+               "name": "jdk6,jdk7\u76F4\u94FE\u4E0B\u8F7D\u65B9\u6CD5 | Z\u7684Blog",
+               "type": "url",
+               "url": "http://blog.zts1993.com/4636.html"
+            } ],
+            "date_added": "13024392512462012",
+            "date_modified": "13024464149162044",
+            "id": "73",
+            "name": "jdk",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13024464149162044",
+               "id": "74",
+               "name": "MySQL :: MySQL 5.1\u53C2\u8003\u624B\u518C :: 2. \u5B89\u88C5MySQL",
+               "type": "url",
+               "url": "http://dev.mysql.com/doc/refman/5.1/zh/installing.html#quick-install"
+            }, {
+               "date_added": "13024474693824509",
+               "id": "77",
+               "name": "MySQL :: Download MySQL Community Server",
+               "type": "url",
+               "url": "http://dev.mysql.com/downloads/mysql/"
+            }, {
+               "date_added": "13024479980380603",
+               "id": "78",
+               "name": "move",
+               "type": "url",
+               "url": "http://docs.saltstack.com/ref/states/all/salt.states.file.html#module-salt.states.file"
+            }, {
+               "date_added": "13024547118046910",
+               "id": "82",
+               "name": "Ubuntu\u4E0Bmysql5.5\u4E3B\u4ECE\u914D\u7F6E_S\u5C55\u7FC5\u98DE_\u65B0\u6D6A\u535A\u5BA2",
+               "type": "url",
+               "url": "http://blog.sina.com.cn/s/blog_560e310001018vtq.html"
+            }, {
+               "date_added": "13024547164479848",
+               "id": "83",
+               "name": "MySQL :: MySQL 5.5 Reference Manual :: 2.10.4 MySQL Source-Configuration Options",
+               "type": "url",
+               "url": "http://dev.mysql.com/doc/refman/5.5/en/source-configuration-options.html"
+            }, {
+               "date_added": "13024549932776518",
+               "id": "84",
+               "name": "Ubuntu - MySQL5.6.11\u4E8C\u8FDB\u5236\u5206\u53D1\u5305\u5B89\u88C5Ubuntu10.04 - xsj1987\u7684\u4E13\u680F - \u535A\u5BA2\u9891\u9053 - CSDN.NET",
+               "type": "url",
+               "url": "http://blog.csdn.net/xsj1987/article/details/8836458"
+            }, {
+               "date_added": "13024552326957088",
+               "id": "85",
+               "name": "mysql5.5\u53CC\u673A\u70ED\u5907\u914D\u7F6E | \u5C0F\u9A6C\u7684\u7A7A\u95F4",
+               "type": "url",
+               "url": "http://maaiguo.com/develop/mysql/mysql5-5_master-master_192.html"
+            }, {
+               "date_added": "13024561492945036",
+               "id": "86",
+               "name": "Ubuntu 10.04 \u4E0B\u6E90\u7801\u7F16\u8BD1mysql5.5.x - - ITeye\u6280\u672F\u7F51\u7AD9",
+               "type": "url",
+               "url": "http://greybeard.iteye.com/blog/1449994"
+            }, {
+               "date_added": "13024562525131465",
+               "id": "87",
+               "name": "Ubuntu\u4E0Bmysql5.5\u4E3B\u4ECE\u914D\u7F6E - Junn\u7684\u4E2A\u4EBA\u9875\u9762 - \u5F00\u6E90\u4E2D\u56FD\u793E\u533A",
+               "type": "url",
+               "url": "http://my.oschina.net/junn/blog/125332"
+            }, {
+               "date_added": "13024724308092079",
+               "id": "91",
+               "name": "Linux\u6E90\u7801\u5B89\u88C5mysql 5.6.12 \uFF08cmake\u7F16\u8BD1\uFF09 - \u6458\u53D6\u5929\u4E0A\u661F - \u535A\u5BA2\u9891\u9053 - CSDN.NET",
+               "type": "url",
+               "url": "http://blog.csdn.net/zqtsx/article/details/9378703"
+            }, {
+               "date_added": "13024733825302422",
+               "id": "92",
+               "name": "hadoop \u4FEE\u6539 logs\u8DEF\u5F84 \u548Ctmp\u8DEF\u5F84 - - ITeye\u6280\u672F\u7F51\u7AD9",
+               "type": "url",
+               "url": "http://taoo.iteye.com/blog/1098318"
+            }, {
+               "date_added": "13024808569149486",
+               "id": "97",
+               "name": "mysql \u53CC\u673A\u70ED\u5907\u4EFD-\u4E00\u8D77jquery|jquery\u4E13\u4E1A\u5B66\u4E60\u7F51\u7AD9|\u4E13\u6CE8\u4E8EWeb\u6280\u672F\u003C",
+               "type": "url",
+               "url": "http://www.17jquery.com/mysql/61606/"
+            }, {
+               "date_added": "13024811092217284",
+               "id": "98",
+               "name": "MySQL\u4FEE\u6539root\u5BC6\u7801\u7684\u5404\u79CD\u65B9\u6CD5\u6574\u7406_\u6570\u636E\u5E93\u6280\u672F_Linux\u516C\u793E-Linux\u7CFB\u7EDF\u95E8\u6237\u7F51\u7AD9",
+               "type": "url",
+               "url": "http://www.linuxidc.com/Linux/2008-02/11137.htm"
+            }, {
+               "date_added": "13024922137684399",
+               "id": "119",
+               "name": "MySQL :: MySQL 5.5 Reference Manual :: 6.2.1 Privileges Provided by MySQL",
+               "type": "url",
+               "url": "http://dev.mysql.com/doc/refman/5.5/en/privileges-provided.html#priv_lock-tables"
+            } ],
+            "date_added": "13024464158584809",
+            "date_modified": "13024978460058397",
+            "id": "75",
+            "name": "mysql",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13024486038373239",
+               "id": "79",
+               "name": "zookeeper \u547D\u4EE4 - Chinaxxren - ITeye\u6280\u672F\u7F51\u7AD9",
+               "type": "url",
+               "url": "http://chinaxxren.iteye.com/blog/1621760"
+            }, {
+               "date_added": "13024545370788745",
+               "id": "81",
+               "name": "MySQL :: MySQL 5.5 Reference Manual :: 2 Installing and Upgrading MySQL",
+               "type": "url",
+               "url": "http://dev.mysql.com/doc/refman/5.5/en/installing.html"
+            } ],
+            "date_added": "13024486049741648",
+            "date_modified": "13024547118046910",
+            "id": "80",
+            "name": "zookeeper",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13024575796117599",
+               "id": "89",
+               "name": "linux sed\u7684\u7528\u6CD5 - Linux\u5B66\u4E60\u7F51",
+               "type": "url",
+               "url": "http://www.5dlinux.com/article/9/2008/linux_26302.html"
+            } ],
+            "date_added": "13024575804526342",
+            "date_modified": "13024724308092079",
+            "id": "90",
+            "name": "sed",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13024733860760621",
+               "id": "93",
+               "name": "APT HOWTO (Obsolete Documentation) - \u57FA\u790E\u8A2D\u5B9A",
+               "type": "url",
+               "url": "http://www.debian.org/doc/manuals/apt-howto/ch-basico.zh-tw.html"
+            } ],
+            "date_added": "13024733886313098",
+            "date_modified": "13024806387367439",
+            "id": "94",
+            "name": "apt",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13024825507814599",
+               "id": "101",
+               "name": "\u4E86\u89E3\u548C\u914D\u7F6E PAM",
+               "type": "url",
+               "url": "http://www.ibm.com/developerworks/cn/linux/l-pam/"
+            }, {
+               "date_added": "13024825756915334",
+               "id": "103",
+               "name": "\u7F51\u7EDC\u7BA1\u7406:pam\u9A8C\u8BC1\u673A\u5236 [TurboLinux\u77E5\u8BC6\u5E93]",
+               "type": "url",
+               "url": "http://www.turbolinux.com.cn/turbo/wiki/doku.php?id=%E7%BD%91%E7%BB%9C%E7%AE%A1%E7%90%86:pam%E9%AA%8C%E8%AF%81%E6%9C%BA%E5%88%B6"
+            }, {
+               "date_added": "13024827394043465",
+               "id": "104",
+               "name": "\u9CE5\u54E5\u7684 Linux \u79C1\u623F\u83DC -- Linux \u5E33\u865F\u7BA1\u7406",
+               "type": "url",
+               "url": "http://linux.vbird.org/linux_basic/0410accountmanager.php#passwd_file"
+            }, {
+               "date_added": "13024828164887746",
+               "id": "105",
+               "name": "\u914D\u7F6EPAM\uFF0D\uFF0D\u5B9E\u8DF5 - ubuntu,debian,mint,redhat -linuxany.com",
+               "type": "url",
+               "url": "http://www.linuxany.com/archives/122.html"
+            }, {
+               "date_added": "13024830117274101",
+               "id": "108",
+               "name": "ubuntu\u4E0B\u642D\u5EFA\u8FDB\u884Cpam\u8BA4\u8BC1\u7684openvpn - linux&python&dba - 51CTO\u6280\u672F\u535A\u5BA2",
+               "type": "url",
+               "url": "http://luoguoling.blog.51cto.com/1568501/1120304"
+            }, {
+               "date_added": "13024831546243758",
+               "id": "109",
+               "name": "Pam\u8BA4\u8BC1_Linux\u670D\u52A1\u5668\u5B89\u5168_Linux\u65B0\u624B\u56ED\u5730_ChinaUnix.net",
+               "type": "url",
+               "url": "http://bbs.chinaunix.net/tree/index_179_1/"
+            }, {
+               "date_added": "13024832464283775",
+               "id": "110",
+               "name": "PAM \u8A8D\u8B49\u6A21\u7D44",
+               "type": "url",
+               "url": "http://www.suse.url.tw/sles10/lesson20.htm"
+            }, {
+               "date_added": "13024907501331280",
+               "id": "112",
+               "name": "\u5355\u7F51\u5361 Ubuntu \u670D\u52A1\u5668\u6253\u9020 PPTP Server - \u82B1\u513F\u5F00\u4E86",
+               "type": "url",
+               "url": "http://blog.istef.info/2008/10/17/ubuntu-pptp-server/"
+            }, {
+               "date_added": "13024907513588497",
+               "id": "113",
+               "name": "\u4F7F\u7528FreeRADIUS\u6765\u7BA1\u7406VPN\u6D41\u91CF - \u96EA\u6CE5\u9E3F\u722A",
+               "type": "url",
+               "url": "http://blog.lifeclaw.com/articles/vpn-bandwidth-management-via-freeradius/"
+            }, {
+               "date_added": "13024907526300854",
+               "id": "114",
+               "name": "FreeRADIUS \u6D4B\u8BD5\u73AF\u5883\u642D\u5EFA - Waydee\u7684\u535A\u5BA2 - 51CTO\u6280\u672F\u535A\u5BA2",
+               "type": "url",
+               "url": "http://waydee.blog.51cto.com/4677242/1103942"
+            } ],
+            "date_added": "13024825519512301",
+            "date_modified": "13024913005176954",
+            "id": "102",
+            "name": "pam",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13024828544757865",
+               "id": "106",
+               "name": "A Mailserver on Ubuntu 12.04: Postfix, Dovecot, MySQL",
+               "type": "url",
+               "url": "https://www.exratione.com/2012/05/a-mailserver-on-ubuntu-1204-postfix-dovecot-mysql/"
+            } ],
+            "date_added": "13024828556534275",
+            "date_modified": "13024830117274101",
+            "id": "107",
+            "name": "mail",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13024913005176954",
+               "id": "115",
+               "name": "Bind9\u5B89\u88C5\u8BBE\u7F6E\u6307\u5357 - Ubuntu\u4E2D\u6587",
+               "type": "url",
+               "url": "http://wiki.ubuntu.org.cn/Bind9%E5%AE%89%E8%A3%85%E8%AE%BE%E7%BD%AE%E6%8C%87%E5%8D%97"
+            }, {
+               "date_added": "13024918522074603",
+               "id": "118",
+               "name": "\u9CE5\u54E5\u7684 Linux \u79C1\u623F\u83DC -- DNS Server",
+               "type": "url",
+               "url": "http://linux.vbird.org/linux_server/0350dns.php#DNS_search"
+            }, {
+               "date_added": "13025334365034369",
+               "id": "121",
+               "name": "\u5EFA\u7ACB Slave DNS",
+               "type": "url",
+               "url": "http://ms.ntcb.edu.tw/~steven/article/slave-dns.htm"
+            }, {
+               "date_added": "13025334385977713",
+               "id": "122",
+               "name": "Ubuntu\u8BBE\u7F6EDNS\u670D\u52A1\u5668\u7684\u6839\u672C\u89E3\u51B3\u65B9\u6CD5",
+               "type": "url",
+               "url": "http://zoomq.qiniudn.com/ZQScrapBook/ZqFLOSS/data/20111026105104/index.html"
+            }, {
+               "date_added": "13025338430317806",
+               "id": "123",
+               "name": "\u52A8\u6001DNS\u7684\u5B9E\u73B0\uFF1ADHCP+DNS_\u5E78\u798F\u5927\u8857_\u767E\u5EA6\u7A7A\u95F4",
+               "type": "url",
+               "url": "http://hi.baidu.com/hakunamatata00/item/c83e82f51954431aa7298865"
+            }, {
+               "date_added": "13025340563791654",
+               "id": "126",
+               "name": "Ubuntu Manpage: dhcpd.conf - dhcpd configuration file",
+               "type": "url",
+               "url": "http://manpages.ubuntu.com/manpages/precise/en/man5/dhcpd.conf.5.html"
+            }, {
+               "date_added": "13025538010572992",
+               "id": "137",
+               "name": "microHOWTO: Configure BIND as a slave DNS server",
+               "type": "url",
+               "url": "http://www.microhowto.info/howto/configure_bind_as_a_slave_dns_server.html"
+            }, {
+               "date_added": "13025538838764861",
+               "id": "138",
+               "name": "DNS BIND Zone Transfers and Updates",
+               "type": "url",
+               "url": "http://www.zytrax.com/books/dns/ch7/xfer.html"
+            }, {
+               "date_added": "13025538856645156",
+               "id": "139",
+               "name": "\u4E2D\u5C0F\u4F01\u696D DNS Server \u5BE6\u6230\u61C9\u7528\uFF08\u7279\u96C6\uFF09",
+               "type": "url",
+               "url": "http://www.babyface2.com/NetAdmin/35200812dns04/"
+            }, {
+               "date_added": "13025539963764197",
+               "id": "140",
+               "name": "Linux\u4E3B\u8F85DNS\u6570\u636E\u4E0D\u540C\u6B65\u6545\u969C\u6392\u9664 - \u79CB\u66F0\u60DC\u67AB - 51CTO\u6280\u672F\u535A\u5BA2",
+               "type": "url",
+               "url": "http://baidu.blog.51cto.com/71938/114245/"
+            } ],
+            "date_added": "13024913016689259",
+            "date_modified": "13025676609310441",
+            "id": "116",
+            "name": "dns&dhcp",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13025339437041780",
+               "id": "124",
+               "name": "IBM i information center",
+               "type": "url",
+               "url": "http://pic.dhe.ibm.com/infocenter/iseries/v6r1m0/index.jsp?topic=/rzakg/rzakgprintthis.htm"
+            } ],
+            "date_added": "13025339445368847",
+            "date_modified": "13025340563791654",
+            "id": "125",
+            "name": "ibm",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13025685374899624",
+               "id": "143",
+               "name": "LDAP \u5165\u9580",
+               "type": "url",
+               "url": "http://ms.ntcb.edu.tw/~steven/article/ldap-1.htm"
+            }, {
+               "date_added": "13025685596922769",
+               "id": "145",
+               "name": "LDAP\u670D\u52A1\u5668\u8FD0\u7528\u4E13\u9898_LDAP\u6280\u672F\u4E13\u9898_Linux\u6280\u672F\u4E13\u9898_\u4E2D\u56FDIT\u5B9E\u9A8C\u5BA4",
+               "type": "url",
+               "url": "http://linux.chinaitlab.com/special/ldap/"
+            }, {
+               "date_added": "13025686806895942",
+               "id": "146",
+               "name": "LDAP\u5FEB\u901F\u5165\u95E8 - Jerry's Blog",
+               "type": "url",
+               "url": "http://maoa.cn/?post=409"
+            }, {
+               "date_added": "13025687951994404",
+               "id": "147",
+               "name": "Samba+LDAP+LAM\u7BA1\u7406\u5DE5\u5177\u5E94\u7528 [\u8BB0\u4E8B\u672C]",
+               "type": "url",
+               "url": "http://wiki.yepn.net/lam"
+            }, {
+               "date_added": "13025687980066890",
+               "id": "148",
+               "name": "GitLab 5.3 on Ubuntu 12.04 with Apache and LDAP authentication \u2013 kasari.com",
+               "type": "url",
+               "url": "http://kasari.com/wp/gitlab-5-3-on-ubuntu-12-04-with-apache-and-ldap-authentication/"
+            }, {
+               "date_added": "13025688113605420",
+               "id": "149",
+               "name": "ldap-group",
+               "type": "url",
+               "url": "https://github.com/gitlabhq/gitlabhq/issues/439"
+            }, {
+               "date_added": "13025688408441564",
+               "id": "150",
+               "name": "\u7528\u6237\u8BA4\u8BC1LDAP\u90E8\u7F72 + 10.04\u90E8\u5206 - \u67E5\u770B\u4E3B\u9898 \u2022 Ubuntu\u4E2D\u6587\u8BBA\u575B",
+               "type": "url",
+               "url": "http://forum.ubuntu.org.cn/viewtopic.php?p=1917482"
+            }, {
+               "date_added": "13025688781997940",
+               "id": "151",
+               "name": "\u7528Gitlab\u6765\u5DE5\u4F5C - \u98DE\u626C",
+               "type": "url",
+               "url": "http://feiyang.me/2013/03/work-with-gitlab/"
+            }, {
+               "date_added": "13025694835464855",
+               "id": "152",
+               "name": "LDAP Linux HOWTO",
+               "type": "url",
+               "url": "http://www.tldp.org/HOWTO/html_single/LDAP-HOWTO/"
+            }, {
+               "date_added": "13025755755979590",
+               "id": "153",
+               "name": "\u4F01\u4E1A\u5E94\u7528\uFF1A\u7EDF\u4E00\u8BA4\u8BC1\u4E0E\u76EE\u5F55 - flyoxs\u7684\u4E13\u680F - \u535A\u5BA2\u9891\u9053 - CSDN.NET",
+               "type": "url",
+               "url": "http://blog.csdn.net/flyoxs/article/category/750607"
+            }, {
+               "date_added": "13025774283624469",
+               "id": "159",
+               "name": "OpenLDAP Server",
+               "type": "url",
+               "url": "https://help.ubuntu.com/lts/serverguide/openldap-server.html"
+            }, {
+               "date_added": "13025779187887394",
+               "id": "160",
+               "name": "Samba and LDAP",
+               "type": "url",
+               "url": "https://help.ubuntu.com/10.04/serverguide/samba-ldap.html"
+            }, {
+               "date_added": "13025779289633096",
+               "id": "161",
+               "name": "IBM developerWorks \u4E2D\u56FD : Linux : \u6587\u6863\u5E93",
+               "type": "url",
+               "url": "http://www.ibm.com/developerworks/cn/views/linux/tutorials.jsp?cv_doc_id=85172&S_TACT=105AGX52&S_CMP=tech-51CTO"
+            }, {
+               "date_added": "13025868025897915",
+               "id": "167",
+               "name": "OpenLDAP 2.2 Administrator's Guide: Schema Specification",
+               "type": "url",
+               "url": "http://www.openldap.org/doc/admin22/schema.html"
+            }, {
+               "date_added": "13025870786393315",
+               "id": "168",
+               "name": "Define team membership based on LDAP \u2013 Suggestions for Gitlab",
+               "type": "url",
+               "url": "http://feedback.gitlab.com/forums/176466-general/suggestions/3807574-define-team-membership-based-on-ldap"
+            }, {
+               "date_added": "13026369419962311",
+               "id": "201",
+               "name": "\u3010Linux\u3011\u5728 CentOS \u4E0A\u5B89\u88DD LDAP Server 2.4 @ \u6709\u70BA\u9752\u5E74\u751F\u6D3B\u672D\u8A18 :: \u75DE\u5BA2\u90A6 PIXNET ::",
+               "type": "url",
+               "url": "http://bojack.pixnet.net/blog/post/32056233-%E3%80%90linux%E3%80%91%E5%9C%A8-centos-%E4%B8%8A%E5%AE%89%E8%A3%9D-ldap-server-2.4"
+            }, {
+               "date_added": "13028376832612840",
+               "id": "297",
+               "name": "python-ldap: Documentation",
+               "type": "url",
+               "url": "http://www.python-ldap.org/docs.shtml"
+            }, {
+               "date_added": "13028611560605866",
+               "id": "298",
+               "name": "\u6709\u9053\u4E91\u7B14\u8BB0",
+               "type": "url",
+               "url": "http://note.youdao.com/"
+            }, {
+               "date_added": "13032253152643121",
+               "id": "363",
+               "name": "Mowd Blog Spaces ~ Ubuntu \u8A2D\u5B9A LDAP + PAM + NFS \u5BE6\u73FE\u591A\u53F0\u96FB\u8166\u55AE\u4E00\u5E33\u865F\u9A57\u8B49",
+               "type": "url",
+               "url": "http://blog.mowd.tw/index.php?pl=844"
+            }, {
+               "date_added": "13032329952429851",
+               "id": "364",
+               "name": "Debian GNU: Setting up OpenLDAP",
+               "type": "url",
+               "url": "http://techpubs.spinlocksolutions.com/dklar/ldap.html"
+            }, {
+               "date_added": "13032329986862370",
+               "id": "365",
+               "name": "Ubuntu Linux \u5B89\u88DD LDAP Server | \u6D77\u8C79\u96DC\u8A18",
+               "type": "url",
+               "url": "http://sealmemory.blogspot.com/2012/01/ubuntu-ldap-server.html"
+            }, {
+               "date_added": "13032330248107924",
+               "id": "367",
+               "name": "2.4. LDAP \u9A8C\u8BC1",
+               "type": "url",
+               "url": "http://docs.oracle.com/cd/E37459_01/E39472/html/ldap-auth.html"
+            }, {
+               "date_added": "13032336685549407",
+               "id": "371",
+               "name": "LDAP\u5FEB\u901F\u5165\u95E8 - obpm - \u535A\u5BA2\u56ED",
+               "type": "url",
+               "url": "http://www.cnblogs.com/obpm/archive/2010/08/28/1811065.html"
+            } ],
+            "date_added": "13025685396030353",
+            "date_modified": "13032604118789207",
+            "id": "144",
+            "name": "ldap",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13025759416882335",
+               "id": "154",
+               "name": "Can delete some users, some I can only disable...",
+               "type": "url",
+               "url": "http://forums.fengoffice.com/index.php?topic=16145.msg33746#msg33746"
+            }, {
+               "date_added": "13025759687392408",
+               "id": "156",
+               "name": "LDAP Authentication in fengoffice",
+               "type": "url",
+               "url": "http://forums.fengoffice.com/index.php?topic=14536.0"
+            } ],
+            "date_added": "13025759446506352",
+            "date_modified": "13025761730719524",
+            "id": "155",
+            "name": "fengoffice",
+            "type": "folder"
+         }, {
+            "date_added": "13025937564382413",
+            "id": "169",
+            "name": "VPSee | \u865A\u62DF\u6280\u672F \u4E91\u8BA1\u7B97 Linux/Mac \u6027\u80FD\u4F18\u5316 \u670D\u52A1\u5668\u67B6\u6784 | Xen VPS \u670D\u52A1\u5546",
+            "type": "url",
+            "url": "http://www.vpsee.com/"
+         }, {
+            "children": [ {
+               "date_added": "13026026809741111",
+               "id": "176",
+               "name": "\u6811\u8393\u6D3ERaspberry Pi\u5C0F\u8BB0",
+               "type": "url",
+               "url": "http://dorole.com/1104/"
+            }, {
+               "date_added": "13026030092357791",
+               "id": "180",
+               "name": "\u3010\u6811\u8393\u6D3E\u7B14\u8BB03\u3011\u5B89\u88C5\u914D\u7F6Esamba \u548CWindows\u8FDB\u884C\u6587\u4EF6\u5171\u4EAB - Kagami - \u535A\u5BA2\u56ED",
+               "type": "url",
+               "url": "http://www.cnblogs.com/kagami/p/3226746.html"
+            }, {
+               "date_added": "13026030102558534",
+               "id": "181",
+               "name": "\u628A\u4F60\u7684\u6811\u8393\u6D3E\u6253\u9020\u6210\u4E00\u4E2ANAS - \u6781\u5BA2\u8303 - GeekFan.net",
+               "type": "url",
+               "url": "http://www.geekfan.net/2767/"
+            }, {
+               "date_added": "13026032144617600",
+               "id": "182",
+               "name": "\u3010\u667A\u80FD\u5BB6\u5C45\u3011\u7528\u6811\u8393\u6D3E+\u79FB\u52A8\u786C\u76D8+MINIDLNA\u6253\u9020\u5BB6\u7528\u5A92\u4F53\u670D\u52A1\u5668\uFF08\u7535\u5F71\u670D\u52A1\u5668\u3001NAS\u3001ipad\u770B\u7247\u5229\u5668\uFF09 | \u4E8C\u5206\u4E4B\u4E00 | \u4E13\u6CE8WEB\u524D\u7AEF\u5F00\u53D1 | Json's Blog",
+               "type": "url",
+               "url": "http://www.2fz1.com/?p=374"
+            }, {
+               "date_added": "13026032421037752",
+               "id": "183",
+               "name": "\u6811\u8393\u6D3E\u6298\u817E\u8BB0(\u4E8C) - \u60A0\u7C73\u6D77\u7684\u4E2A\u4EBA\u7A7A\u95F4 - \u5F00\u6E90\u4E2D\u56FD\u793E\u533A",
+               "type": "url",
+               "url": "http://my.oschina.net/u/659405/blog/113672"
+            }, {
+               "date_added": "13026284618960552",
+               "id": "197",
+               "name": "\u6811\u8393\u6D3E\uFF08Raspberry Pi\uFF09\u4F7F\u7528\u7BC7 - hanguokai\u7684\u65E5\u5FD7 - \u7F51\u6613\u535A\u5BA2",
+               "type": "url",
+               "url": "http://han.guokai.blog.163.com/blog/static/1367182712013022012107/"
+            }, {
+               "date_added": "13026286690016083",
+               "id": "200",
+               "name": "\u7ED9\u6811\u8393\u6D3E\u6302\u8F7D\u79FB\u52A8\u786C\u76D8\u6216U\u76D8 | \u6811\u8393\u6D3E",
+               "type": "url",
+               "url": "http://shumeipai.nxez.com/2013/09/08/raspberry-pi-to-mount-the-removable-hard-disk.html"
+            }, {
+               "date_added": "13028033796676011",
+               "id": "277",
+               "name": "Cubieboard/5\u5206\u949F\u5B89\u88C5ubuntu\u684C\u9762 - Cubiebook\u4E2D\u6587",
+               "type": "url",
+               "url": "http://cn.cubiebook.org/index.php?title=Cubieboard/5%E5%88%86%E9%92%9F%E5%AE%89%E8%A3%85ubuntu%E6%A1%8C%E9%9D%A2"
+            } ],
+            "date_added": "13026026822217103",
+            "date_modified": "13028095351594511",
+            "id": "177",
+            "name": "\u6811\u8393\u6D3E&cubieboard",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13026030004172474",
+               "id": "178",
+               "name": "Ubuntu 12.04 \u5B89\u88DD KVM \u865B\u64EC\u5316\u7B46\u8A18 - \u73A9\u7269\u5C1A\u8A8C",
+               "type": "url",
+               "url": "http://blog.lyhdev.com/2013/01/ubuntu-1204-kvm.html"
+            }, {
+               "date_added": "13026043566583806",
+               "id": "185",
+               "name": "KVM - Community Ubuntu Documentation",
+               "type": "url",
+               "url": "https://help.ubuntu.com/community/KVM"
+            }, {
+               "date_added": "13026045953491268",
+               "id": "186",
+               "name": "\u4F7F\u7528virt-install\u642D\u5EFAKVM\u865A\u62DF\u673A",
+               "type": "url",
+               "url": "http://perthcharles.github.io/kvm/2013/08/25/kvm-virt-install/"
+            }, {
+               "date_added": "13026195932819861",
+               "id": "187",
+               "name": "Install VNC server on Ubuntu Server 12.04 - Amahi Wiki",
+               "type": "url",
+               "url": "https://wiki.amahi.org/index.php/Install_VNC_server_on_Ubuntu_Server_12.04"
+            }, {
+               "date_added": "13026195941371473",
+               "id": "188",
+               "name": "Ubuntu server\u914D\u7F6E\u8FDC\u7A0BVNC\u670D\u52A1 - \u5416\u5416\u500B\u5478 - 51CTO\u6280\u672F\u535A\u5BA2",
+               "type": "url",
+               "url": "http://gm100861.blog.51cto.com/1930562/917316"
+            }, {
+               "date_added": "13026195951651977",
+               "id": "189",
+               "name": "ubuntu \u914D\u7F6E vnc server_iCoder\u7F16\u7A0B\u7B14\u8BB0_\u767E\u5EA6\u7A7A\u95F4",
+               "type": "url",
+               "url": "http://hi.baidu.com/wuxicn/item/5cfbfacb61f4dc0fad092f98"
+            }, {
+               "date_added": "13026195974420144",
+               "id": "190",
+               "name": "\u963F\u91CC\u4E91-\u5E2E\u52A9\u4E2D\u5FC3",
+               "type": "url",
+               "url": "http://help.aliyun.com/manual?helpId=1371"
+            }, {
+               "date_added": "13026195986268869",
+               "id": "191",
+               "name": "\u53F2\u4E0A\u6700\u6D01\u7656\u7684\u5728Ubuntu Server 12.04\u4E0A\u90E8\u7F72\u865A\u62DF\u5316 | \u5F35",
+               "type": "url",
+               "url": "http://www.zh-ang.com/2012/10/03/virtualization-on-ubuntu-server-12-04-lts/"
+            }, {
+               "date_added": "13026196011388810",
+               "id": "192",
+               "name": "KVM\u5B89\u88C5Win\u7CFB\u5217\u865A\u62DF\u673A\u5B66\u4E60\u7B14\u8BB0 - \u6734\u5B9E\u7684\u8FFD\u68A6\u8005 - 51CTO\u6280\u672F\u535A\u5BA2",
+               "type": "url",
+               "url": "http://sfzhang88.blog.51cto.com/4995876/1102955"
+            }, {
+               "date_added": "13026199399817700",
+               "id": "193",
+               "name": "\u81EA\u5DF1\u642D\u5EFAVPS\u7CFB\u5217 \u4E4B \u5728Ubuntu\u4E0A\u5B89\u88C5KVM\u5E76\u642D\u5EFA\u865A\u62DF\u73AF\u5883 | \u7C89\u4E1D\u65E5\u5FD7",
+               "type": "url",
+               "url": "http://blog.fens.me/vps-kvm/"
+            }, {
+               "date_added": "13026199436418792",
+               "id": "194",
+               "name": "ubuntu\u7CFB\u7EDFVNC\u670D\u52A1\u5668\u5B89\u88C5\u914D\u7F6E | \u51AC\u5BD2\u535A\u5BA2",
+               "type": "url",
+               "url": "http://www.wincold.com/archives/154.html"
+            }, {
+               "date_added": "13026214390276085",
+               "id": "195",
+               "name": "(\u8F6C\u8F7D)qemu/kvm/qemu-kvm/virsh\u7684\u533A\u522B - \u795E\u5947\u7269\u79CD \u7684\u4E13\u680F - \u535A\u5BA2\u9891\u9053 - CSDN.NET",
+               "type": "url",
+               "url": "http://blog.csdn.net/tangcaijun/article/details/8907018"
+            }, {
+               "date_added": "13026214395553665",
+               "id": "196",
+               "name": "\u4F7F\u7528libvirt\u7BA1\u7406kvm\u865A\u62DF\u673A-xjc2694-ChinaUnix\u535A\u5BA2",
+               "type": "url",
+               "url": "http://blog.chinaunix.net/uid-1838361-id-257238.html"
+            } ],
+            "date_added": "13026030015251839",
+            "date_modified": "13026284618960552",
+            "id": "179",
+            "name": "kvm",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13026285452131871",
+               "id": "198",
+               "name": "CentOS 6.3\u4E0BSamba\u670D\u52A1\u5668\u7684\u5B89\u88C5\u4E0E\u914D\u7F6E - David_Tang - \u535A\u5BA2\u56ED",
+               "type": "url",
+               "url": "http://www.cnblogs.com/mchina/archive/2012/12/18/2816717.html"
+            } ],
+            "date_added": "13026285460811503",
+            "date_modified": "13026286690016083",
+            "id": "199",
+            "name": "samba",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13026883054581767",
+               "id": "202",
+               "name": "\u4E2D\u87D2 (\u4E2D\u6587 Python) \u7DE8\u7A0B\u8A9E\u8A00\u7DB2\u7AD9 chinesepython",
+               "type": "url",
+               "url": "http://www.chinesepython.org/"
+            }, {
+               "date_added": "13026883189524121",
+               "id": "204",
+               "name": "Python/\u7B2C\u4E00\u6B21\u7528\u5C31\u4E0A\u624B - PyTUG wiki",
+               "type": "url",
+               "url": "http://python.org.tw/Python/%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%94%A8%E5%B0%B1%E4%B8%8A%E6%89%8B"
+            }, {
+               "date_added": "13026883315334983",
+               "id": "205",
+               "name": "\u7B80\u660E Python \u6559\u7A0B",
+               "type": "url",
+               "url": "http://woodpecker.org.cn/abyteofpython_cn/chinese/"
+            }, {
+               "date_added": "13026895983814258",
+               "id": "207",
+               "name": "\u7528Vim\u7F16\u7A0B\u2014\u2014\u914D\u7F6E\u4E0E\u6280\u5DE7 - Linux Wiki",
+               "type": "url",
+               "url": "http://linux-wiki.cn/wiki/%E7%94%A8Vim%E7%BC%96%E7%A8%8B%E2%80%94%E2%80%94%E9%85%8D%E7%BD%AE%E4%B8%8E%E6%8A%80%E5%B7%A7"
+            }, {
+               "date_added": "13027422827370869",
+               "id": "238",
+               "name": "pycrumbs/pycrumbs.md at master \u00B7 chenqing/pycrumbs",
+               "type": "url",
+               "url": "https://github.com/chenqing/pycrumbs/blob/master/pycrumbs.md"
+            }, {
+               "date_added": "13027569768063366",
+               "id": "241",
+               "name": "IBM developerWorks \u4E2D\u56FD : Python \u6280\u672F\u4E13\u9898",
+               "type": "url",
+               "url": "http://www.ibm.com/developerworks/cn/linux/theme/python/"
+            }, {
+               "date_added": "13027570342868100",
+               "id": "242",
+               "name": "\u9996\u9875 - Woodpecker Wiki for CPUG",
+               "type": "url",
+               "url": "http://wiki.woodpecker.org.cn/moin/"
+            }, {
+               "date_added": "13027668468540552",
+               "id": "252",
+               "name": "\u4F7F\u7528 Python-LDAP \u64CD\u4F5C LDAP | vpsee.com",
+               "type": "url",
+               "url": "http://www.vpsee.com/2012/11/use-python-ldap-to-create-read-delete-upgrade-ldap-entries/"
+            }, {
+               "date_added": "13027669744638335",
+               "id": "253",
+               "name": "MIME\u90AE\u4EF6\u683C\u5F0F\u5206\u6790\u53CA\u4FE1\u606F\u63D0\u53D6 [Python\u4FF1\u4E50\u90E8]",
+               "type": "url",
+               "url": "http://www.pythonclub.org/python-files/mime-type"
+            }, {
+               "date_added": "13027672418506981",
+               "id": "254",
+               "name": "Python MIME \u7535\u5B50\u90AE\u4EF6\u89E3\u7801 [Python\u4FF1\u4E50\u90E8]",
+               "type": "url",
+               "url": "http://www.pythonclub.org/python-network-application/email-format"
+            }, {
+               "date_added": "13027679452373771",
+               "id": "257",
+               "name": "python\u53D1\u90AE\u4EF6\u5B9E\u4F8B - bunny\u7684\u4E13\u4E1A\u8BB0\u5F55 - \u535A\u5BA2\u9891\u9053 - CSDN.NET",
+               "type": "url",
+               "url": "http://blog.csdn.net/wyuan8913/article/details/6917873"
+            }, {
+               "date_added": "13030620833461183",
+               "id": "338",
+               "name": "MySQL Python tutorial",
+               "type": "url",
+               "url": "http://zetcode.com/db/mysqlpython/"
+            } ],
+            "date_added": "13026883066737069",
+            "date_modified": "13030703049762586",
+            "id": "203",
+            "name": "python",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13026896359228485",
+               "id": "208",
+               "name": "[\u539F]\u8FDB\u884C\u7B80\u5355\u7684CPU\u548C\u5185\u5B58\u8D1F\u8F7D\u6D4B\u8BD5 - linux\u306E\u98D8\u626C - Power by www.linuxfly.org",
+               "type": "url",
+               "url": "http://www.linuxfly.org/post/47/"
+            }, {
+               "date_added": "13026896437469766",
+               "id": "210",
+               "name": "Linux Cpu \u53CA\u5185\u5B58\u57FA\u51C6\u6D4B\u8BD5\u5DE5\u5177 ubench - \u963F\u91CC\u5DF4\u5DF4\u4E00\u4E2A\u6D4B\u8BD5\u67B6\u6784\u5E08 - 51Testing\u8F6F\u4EF6\u6D4B\u8BD5\u7F51 51Testing\u8F6F\u4EF6\u6D4B\u8BD5\u7F51-\u4E2D\u56FD\u8F6F\u4EF6\u6D4B\u8BD5\u4EBA\u7684\u7CBE\u795E\u5BB6\u56ED - Powered by X-Space",
+               "type": "url",
+               "url": "http://www.51testing.com/html/97/13997-179484.html"
+            }, {
+               "date_added": "13026897035223661",
+               "id": "211",
+               "name": "Stress Test Your Ubuntu Computer with 'Stress'",
+               "type": "url",
+               "url": "http://www.hecticgeek.com/2012/11/stress-test-your-ubuntu-computer-with-stress/"
+            }, {
+               "date_added": "13026898068008006",
+               "id": "212",
+               "name": "Linux\u4E0B\u78C1\u76D8IO\u6027\u80FD\u6D4B\u8BD5\u5DE5\u5177\u4ECB\u7ECD - \u98CE\u4E91\u7684\u535A\u5BA2 - 51CTO\u6280\u672F\u535A\u5BA2",
+               "type": "url",
+               "url": "http://cwind.blog.51cto.com/62582/809284"
+            }, {
+               "date_added": "13026898185689698",
+               "id": "213",
+               "name": "LTP--linux\u7A33\u5B9A\u6027\u6D4B\u8BD5 linux\u6027\u80FD\u6D4B\u8BD5 ltp\u538B\u529B\u6D4B\u8BD5 - \u8FFD\u6C42 - 51CTO\u6280\u672F\u535A\u5BA2",
+               "type": "url",
+               "url": "http://chenxy.blog.51cto.com/729966/815044"
+            }, {
+               "date_added": "13026898208170563",
+               "id": "214",
+               "name": "Linux\u6027\u80FD\u6D4B\u8BD5\u5DE5\u5177-phoenixcsl-ChinaUnix\u535A\u5BA2",
+               "type": "url",
+               "url": "http://blog.chinaunix.net/uid-27024249-id-3953125.html"
+            } ],
+            "date_added": "13026896383748157",
+            "date_modified": "13026910080350544",
+            "id": "209",
+            "name": "linux Test",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13026910721435230",
+               "id": "219",
+               "name": "Ubuntu\u5B89\u88C5distcc\uFF08\u5206\u5E03\u5F0F\u7F16\u8BD1\uFF09\u6B65\u9AA4 - linux - 51CTO\u6280\u672F\u535A\u5BA2",
+               "type": "url",
+               "url": "http://yangzhiming.blog.51cto.com/4849999/1189445"
+            }, {
+               "date_added": "13026913532455076",
+               "id": "221",
+               "name": "ltp \u6D4B\u8BD5\u6D41\u7A0B\u53CA\u6D4B\u8BD5\u811A\u672C\u5206\u6790 - satiling\u7684\u4E13\u680F - \u535A\u5BA2\u9891\u9053 - CSDN.NET",
+               "type": "url",
+               "url": "http://blog.csdn.net/satiling/article/details/6947801"
+            }, {
+               "date_added": "13026914190003242",
+               "id": "224",
+               "name": "Distcc/Cross-Compiling - Gentoo Wiki",
+               "type": "url",
+               "url": "https://wiki.gentoo.org/wiki/Distcc/Cross-Compiling"
+            }, {
+               "date_added": "13027067716347560",
+               "id": "225",
+               "name": "\u7528distcc\u548Cdmucs\u5728ubuntu 10.04\u4E0A\u642D\u5EFA\u5206\u5E03\u5F0F\u7F16\u8BD1\u73AF\u5883-justyezhao-ChinaUnix\u535A\u5BA2",
+               "type": "url",
+               "url": "http://blog.chinaunix.net/uid-28190171-id-3379699.html"
+            }, {
+               "date_added": "13027067790730172",
+               "id": "226",
+               "name": "distcc \u4ECB\u7ECD - My Study",
+               "type": "url",
+               "url": "http://my.huhoo.net/archives/2010/06/distcc.html"
+            }, {
+               "date_added": "13027068096628721",
+               "id": "227",
+               "name": "\u52A0\u901FLinux\u7A0B\u5E8F\u7F16\u8BD1 | \u674E\u51E1\u5E0C\u7684Blog",
+               "type": "url",
+               "url": "http://www.freemindworld.com/blog/2010/100105_make_complie_process_faster.shtml"
+            }, {
+               "date_added": "13027068331513556",
+               "id": "228",
+               "name": "Documentation - Point Cloud Library (PCL)",
+               "type": "url",
+               "url": "http://pointclouds.org/documentation/advanced/distcc.php"
+            }, {
+               "date_added": "13027070953533026",
+               "id": "229",
+               "name": "11.10 - How to speed up compilation of Ubuntu apps (make, cmake, gcc) - Ask Ubuntu",
+               "type": "url",
+               "url": "http://askubuntu.com/questions/107008/how-to-speed-up-compilation-of-ubuntu-apps-make-cmake-gcc"
+            }, {
+               "date_added": "13027072451311158",
+               "id": "230",
+               "name": "HOWTO: Install/Configure Distcc - VPSLink Wiki",
+               "type": "url",
+               "url": "http://wiki.vpslink.com/HOWTO:_Install/Configure_Distcc"
+            }, {
+               "date_added": "13028204182064838",
+               "id": "296",
+               "name": "Distcc (\u7B80\u4F53\u4E2D\u6587) - ArchWiki",
+               "type": "url",
+               "url": "https://wiki.archlinux.org/index.php/Distcc_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)"
+            }, {
+               "date_added": "13028793552981767",
+               "id": "302",
+               "name": "Gentoo Forums :: View topic - Cannot get distcc/pump to work [SOLVED]",
+               "type": "url",
+               "url": "http://forums.gentoo.org/viewtopic-t-945540-start-0.html"
+            }, {
+               "date_added": "13028798545692193",
+               "id": "303",
+               "name": "distcc-pump manual page",
+               "type": "url",
+               "url": "http://distcc.googlecode.com/svn/trunk/doc/web/man/distcc_1.html"
+            }, {
+               "date_added": "13028803244370687",
+               "id": "304",
+               "name": "\u8449\u96E3: \u4F7F\u7528distcc\u52A0\u901F\u7DE8\u8B6F\uFF08Raspberry Pi+Raspbian\uFF09",
+               "type": "url",
+               "url": "http://yehnan.blogspot.ca/2013/10/distccraspberry-piraspbian.html"
+            }, {
+               "date_added": "13028803248347975",
+               "id": "305",
+               "name": "distcc\u548Cdmucs\u5206\u5E03\u5F0F\u7F16\u8BD1\u73AF\u5883\u7684\u8D1F\u8F7D\u5747\u8861 - Emmoblin Blog",
+               "type": "url",
+               "url": "http://emmoblin.github.io/blog/2013/03/27/distcc-dmucs/"
+            }, {
+               "date_added": "13028808703896839",
+               "id": "306",
+               "name": "\u901A\u8FC7 ccache \u6539\u5584\u534F\u540C\u6784\u5EFA\u65F6\u95F4",
+               "type": "url",
+               "url": "http://www.ibm.com/developerworks/cn/linux/l-ccache.html"
+            }, {
+               "date_added": "13028810244167624",
+               "id": "307",
+               "name": "CCACHE(1)",
+               "type": "url",
+               "url": "http://ccache.samba.org/manual.html"
+            } ],
+            "date_added": "13026910730826987",
+            "date_modified": "13028881246336643",
+            "id": "220",
+            "name": "distcc&ltp",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13026913926158419",
+               "id": "222",
+               "name": "\u901A\u8FC7 Shell \u548C Expect \u811A\u672C\u5B9E\u73B0\u5BF9 IBM \u5200\u7247\u670D\u52A1\u5668\u9AD8\u7EA7\u7BA1\u7406\u6A21\u5757\u56FA\u4EF6\u7684\u5927\u91CF\u5347\u7EA7",
+               "type": "url",
+               "url": "http://www.ibm.com/developerworks/cn/linux/l-cn-firmupgrade/"
+            } ],
+            "date_added": "13026913936437715",
+            "date_modified": "13026914190003242",
+            "id": "223",
+            "name": "expect",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13027153855003128",
+               "id": "233",
+               "name": "SSH\u4EE3\u7406\uFF0Csocks\u4EE3\u7406\uFF0Cdante,backtrack.Web\u5B89\u5168\u624B\u518C | Web\u5B89\u5168\u624B\u518C",
+               "type": "url",
+               "url": "http://www.0x50sec.org/hack-tools/2010/03/id/498/"
+            } ],
+            "date_added": "13027153882338373",
+            "date_modified": "13027416841392612",
+            "id": "234",
+            "name": "\u4EE3\u7406",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13027416841392612",
+               "id": "235",
+               "name": "Linux socket \u7F16\u7A0B\uFF0C\u7B2C\u4E00\u90E8\u5206",
+               "type": "url",
+               "url": "http://www.ibm.com/developerworks/cn/education/linux/l-sock/index.html"
+            }, {
+               "date_added": "13027417394018834",
+               "id": "237",
+               "name": "SOCKET\u4E0ETCP/IP \u5173\u7CFB - \u9ED8\u5B50\u6DB5 - ITeye\u6280\u672F\u7F51\u7AD9",
+               "type": "url",
+               "url": "http://zengyouyuan.iteye.com/blog/1520714"
+            } ],
+            "date_added": "13027416849705860",
+            "date_modified": "13027422827370869",
+            "id": "236",
+            "name": "socket",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13027484247940581",
+               "id": "239",
+               "name": "\u5728Linode\u7684Ubuntu\u4E0A\u642D\u5EFAL2TP over IPSec\u670D\u52A1\u5668 | \u54BB~\u54BB~\u54BB~~~\u6211\u662F\u98CE",
+               "type": "url",
+               "url": "http://blog.tech4k.com/?p=745"
+            }, {
+               "date_added": "13027574407258147",
+               "id": "243",
+               "name": "IPsec/L2TP VPN server with Ubuntu 12.04 - Cryptocracy",
+               "type": "url",
+               "url": "http://www.cryptocracy.com/blog/2012/05/13/ipsec-slash-l2tp-vpn-server-with-ubuntu-precise"
+            }, {
+               "date_added": "13027576899373960",
+               "id": "244",
+               "name": "Configure L2TP/IPSec VPN on Ubuntu",
+               "type": "url",
+               "url": "http://riobard.com/2010/04/30/l2tp-over-ipsec-ubuntu/"
+            }, {
+               "date_added": "13027577524641028",
+               "id": "245",
+               "name": "Centos L2TP\u76F8\u5173\u9519\u8BEF\u89E3\u51B3 - Linux | Bsd | Unix | Windows",
+               "type": "url",
+               "url": "http://sjolzy.cn/The-Centos-L2TP-related-error-solve.html"
+            }, {
+               "date_added": "13027577562002589",
+               "id": "246",
+               "name": "VPNs----\u624B\u628A\u624B\u6559\u4F60\u7528Openswan\u5EFA\u7ACBlinux\u5BF9linux\u7684IPSecRSA\u8FDE\u63A5 - manfonly\u7684\u4E13\u680F - \u535A\u5BA2\u9891\u9053 - CSDN.NET",
+               "type": "url",
+               "url": "http://blog.csdn.net/manfonly/article/details/7875633"
+            }, {
+               "date_added": "13027582838980388",
+               "id": "247",
+               "name": "\u5982\u4F55\u5728 Debian / Ubuntu \u670D\u52A1\u5668\u4E0A\u67B6\u8BBE L2TP / IPSec VPN - Apple4us",
+               "type": "url",
+               "url": "http://apple4us.com/2010/05/setting-up-l2tp-vpn-on-debian-ubuntu.html"
+            }, {
+               "date_added": "13027584058659874",
+               "id": "248",
+               "name": "Linode CentOS / Debian \u90E8\u7F72 ipsec+l2tpd \u7B80\u8981\u7B14\u8BB0 | gkp's post",
+               "type": "url",
+               "url": "http://b.gkp.cc/2010/06/19/setup-ipsec-l2tp-on-centos-55/"
+            }, {
+               "date_added": "13027584898458960",
+               "id": "249",
+               "name": "\u5728 Linux \u4E0A\u642D\u5EFA L2TP/IPSec VPN | Jiehan Zheng",
+               "type": "url",
+               "url": "https://jiehan.org/tech/setting-up-l2tp-ipsec-vpn-on-linux/"
+            }, {
+               "date_added": "13027600548544784",
+               "id": "250",
+               "name": "IPsec VPN - UntangleWiki",
+               "type": "url",
+               "url": "http://wiki.untangle.com/index.php/IPsec_VPN"
+            }, {
+               "date_added": "13027660162865629",
+               "id": "251",
+               "name": "Secure IPsec/L2TP VPN for on the road android devices | Eclectic Security",
+               "type": "url",
+               "url": "http://bailey.st/blog/2011/07/06/secure-ipsecl2tp-vpn-for-on-the-road-android-devices/"
+            } ],
+            "date_added": "13027484255083919",
+            "date_modified": "13027668468540552",
+            "id": "240",
+            "name": "vpn",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13027677642120514",
+               "id": "255",
+               "name": "\u7CFB\u7EDF\u76D1\u63A7 - \u5F00\u6E90\u8F6F\u4EF6\u5E93 - \u5F00\u6E90\u4E2D\u56FD\u793E\u533A",
+               "type": "url",
+               "url": "http://www.oschina.net/project/tag/146/"
+            }, {
+               "date_added": "13027757393448017",
+               "id": "258",
+               "name": "\u9CE5\u54E5\u7684 Linux \u79C1\u623F\u83DC -- MRTG \u6D41\u91CF\u5075\u6E2C\u6CD5",
+               "type": "url",
+               "url": "http://linux.vbird.org/linux_security/old/04mrtg.php"
+            }, {
+               "date_added": "13027757820968596",
+               "id": "259",
+               "name": "Comparison of network monitoring systems - Wikipedia, the free encyclopedia",
+               "type": "url",
+               "url": "http://en.wikipedia.org/wiki/Comparison_of_network_monitoring_systems"
+            }, {
+               "date_added": "13027759116546590",
+               "id": "260",
+               "name": "Zenoss \u00B7Nagios \u00B7Cacti\u5BF9\u6BD4 - \u5154\u5C0F\u7F8E\u7684\u65E5\u5FD7 - \u7F51\u6613\u535A\u5BA2",
+               "type": "url",
+               "url": "http://nana0730.blog.163.com/blog/static/127122395201131154526955/"
+            }, {
+               "date_added": "13027761278560776",
+               "id": "261",
+               "name": "Linux\u76D1\u63A7\u5229\u5668nagios\u2013NSCA\u88AB\u52A8\u76D1\u63A7 | cszer",
+               "type": "url",
+               "url": "http://www.cszhi.com/20120527/nagios-nsca.html"
+            }, {
+               "date_added": "13027764611509324",
+               "id": "262",
+               "name": "\u7D50\u5408SNMP\u670D\u52D9 Nagios\u76E3\u63A7\u80FD\u529B\u66F4\u5168\u9762 - \u6280\u8853\u5C08\u6B04 - \u7DB2\u7BA1\u4EBANetAdmin",
+               "type": "url",
+               "url": "http://www.netadmin.com.tw/article_content.aspx?sn=1206040001&jump=1"
+            }, {
+               "date_added": "13027764758537266",
+               "id": "263",
+               "name": "\u8F15\u9B06\u505A\u597D\u6D41\u91CF\u7BA1\u7406\u2014Cacti\uFF08\u4E0A\uFF09 - \u6280\u8853\u5C08\u6B04 - \u7DB2\u7BA1\u4EBANetAdmin",
+               "type": "url",
+               "url": "http://www.netadmin.com.tw/article_content.aspx?sn=1212060003"
+            }, {
+               "date_added": "13027765074583238",
+               "id": "264",
+               "name": "\u4E0D\u81EA\u91CF\u529B \u306E Weithenn: Nagios-\u7DB2\u8DEF\u76E3\u63A7\u53CA\u544A\u8B66\u7CFB\u7D71",
+               "type": "url",
+               "url": "http://www.weithenn.org/cgi-bin/wiki.pl?Nagios-%E7%B6%B2%E8%B7%AF%E7%9B%A3%E6%8E%A7%E5%8F%8A%E5%91%8A%E8%AD%A6%E7%B3%BB%E7%B5%B1"
+            }, {
+               "date_added": "13028002244955188",
+               "id": "266",
+               "name": "Installing the Cacti Server Monitor on Ubuntu 12.04 Cloud Server | DigitalOcean",
+               "type": "url",
+               "url": "https://www.digitalocean.com/community/articles/installing-the-cacti-server-monitor-on-ubuntu-12-04-cloud-server"
+            }, {
+               "date_added": "13028011920741027",
+               "id": "267",
+               "name": "configuration - Hosting Cacti install from NginX - Server Fault",
+               "type": "url",
+               "url": "http://serverfault.com/questions/482284/hosting-cacti-install-from-nginx"
+            }, {
+               "date_added": "13028011925125242",
+               "id": "268",
+               "name": "How to install Cacti with Nginx | Not Blog",
+               "type": "url",
+               "url": "http://notblog.org/cacti-with-nginx/"
+            }, {
+               "date_added": "13028011928493267",
+               "id": "269",
+               "name": "Ubuntu 12.04 \u5B89\u88C5\u914D\u7F6ECacti \u00BB \u9648\u6C99\u514B\u65E5\u5FD7",
+               "type": "url",
+               "url": "http://www.chenshake.com/configuring-ubuntu-12-04-install-cacti/"
+            }, {
+               "date_added": "13028011937133539",
+               "id": "270",
+               "name": "\u624B\u628A\u624B\u5B9E\u73B0\u7528Cacti\u76D1\u63A7\u8D44\u6E90+\u5B8C\u7F8E\u76D1\u63A7MySQL\u7B49\u670D\u52A1 - For The Dream - 51CTO\u6280\u672F\u535A\u5BA2",
+               "type": "url",
+               "url": "http://foreveryan.blog.51cto.com/3508502/671274"
+            }, {
+               "date_added": "13028015576775539",
+               "id": "271",
+               "name": "Monitoring Resource Utilization with Cacti on Ubuntu 12.04 (Precise) \u2013 Linode Library",
+               "type": "url",
+               "url": "https://library.linode.com/server-monitoring/cacti/ubuntu-12.04-precise-pangolin"
+            }, {
+               "date_added": "13028015971740854",
+               "id": "272",
+               "name": "Cacti\u914D\u7F6Ee-mail\u62A5\u8B66 - \u5F00\u6E90\u4E2D\u56FD\u793E\u533A",
+               "type": "url",
+               "url": "http://www.oschina.net/question/12_5189"
+            }, {
+               "date_added": "13028017390145453",
+               "id": "273",
+               "name": "Cacti\u81EA\u5B9A\u4E49OID\u5236\u56FE - \u8FD0\u7EF4\u7B14\u8BB0 - 51CTO\u6280\u672F\u535A\u5BA2",
+               "type": "url",
+               "url": "http://lihuipeng.blog.51cto.com/3064864/643960"
+            }, {
+               "date_added": "13028018023748081",
+               "id": "274",
+               "name": "\u4F7F\u7528cacti\u83B7\u53D6snmp\u53D1\u9001\u7684\u81EA\u5B9A\u4E49\u4FE1\u606F - wd and cc",
+               "type": "url",
+               "url": "http://wdicc.com/cacti-snmp/"
+            }, {
+               "date_added": "13028018664894523",
+               "id": "275",
+               "name": "cacti\u6570\u636E\u91C7\u96C6\u7CBE\u5EA6\u76F8\u5173\u7B14\u8BB0_bolide_\u65B0\u6D6A\u535A\u5BA2",
+               "type": "url",
+               "url": "http://blog.sina.com.cn/s/blog_702eef6501010sxl.html"
+            }, {
+               "date_added": "13028019628998885",
+               "id": "276",
+               "name": "Cacti\u00AE - The Complete RRDTool-based Graphing Solution",
+               "type": "url",
+               "url": "http://www.cacti.net/index.php"
+            }, {
+               "date_added": "13028095351594511",
+               "id": "278",
+               "name": "Linux Ubuntu SNMP\u914D\u7F6E - \u9A86\u9A7C\u7965\u5B50 - 51CTO\u6280\u672F\u535A\u5BA2",
+               "type": "url",
+               "url": "http://shfelix.blog.51cto.com/539699/1240574"
+            }, {
+               "date_added": "13028096111964009",
+               "id": "279",
+               "name": "\u5173\u4E8Enet-snmp\u4E2D\u7684No Such Instance currently exists at this OID - jasonCSH\u7684\u4E13\u680F - \u535A\u5BA2\u9891\u9053 - CSDN.NET",
+               "type": "url",
+               "url": "http://blog.csdn.net/jasoncsh/article/details/5366329"
+            }, {
+               "date_added": "13028101315267690",
+               "id": "280",
+               "name": "Vacm - Net-SNMP Wiki",
+               "type": "url",
+               "url": "http://www.net-snmp.org/wiki/index.php/Vacm"
+            }, {
+               "date_added": "13028101329779676",
+               "id": "281",
+               "name": "SNMP\u6D4B\u8BD5 - swfa1\u7684\u4E13\u680F - \u535A\u5BA2\u9891\u9053 - CSDN.NET",
+               "type": "url",
+               "url": "http://blog.csdn.net/swfa1/article/details/10509391"
+            }, {
+               "date_added": "13028105473569095",
+               "id": "282",
+               "name": "SNMPAgent - Community Ubuntu Documentation",
+               "type": "url",
+               "url": "https://help.ubuntu.com/community/SNMPAgent"
+            }, {
+               "date_added": "13028105975674685",
+               "id": "283",
+               "name": "\u6D0B\u8525\u7238\u7684\u5DE5\u4F5C\u96DC\u8A18: SNMP on LINUX server \u5BE6\u4F5C",
+               "type": "url",
+               "url": "http://tosian.blogspot.com/2008/08/snmp-on-linux-server.html"
+            }, {
+               "date_added": "13028107187379281",
+               "id": "284",
+               "name": "\u4F7F\u7528 cacti \u6279\u91CF\u76D1\u63A7\u670D\u52A1\u5668\u4EE5\u53CA\u5176 PHP \u8FD0\u4F5C\u73AF\u5883\u914D\u7F6E",
+               "type": "url",
+               "url": "http://www.ibm.com/developerworks/cn/linux/l-cn-cacti/"
+            }, {
+               "date_added": "13028107977491467",
+               "id": "285",
+               "name": "How To/cacti",
+               "type": "url",
+               "url": "http://www.cacti.net/downloads/docs/html/how_to.html"
+            }, {
+               "date_added": "13028110133782958",
+               "id": "286",
+               "name": "The Cacti Manual",
+               "type": "url",
+               "url": "http://www.cacti.net/downloads/docs/html/index.html"
+            }, {
+               "date_added": "13028111101017936",
+               "id": "287",
+               "name": "Cacti \u76D1\u63A7\u7F51\u7EDC - Qvip\u7684\u4E13\u680F - \u535A\u5BA2\u9891\u9053 - CSDN.NET",
+               "type": "url",
+               "url": "http://blog.csdn.net/qiudakun/article/details/6550377"
+            }, {
+               "date_added": "13028111626939967",
+               "id": "288",
+               "name": "linux-cacti\u4F7F\u7528snmp\u81EA\u5B9A\u4E49OID\u8FDB\u884C\u5236\u56FE-yc - \u4E0D\u65AD\u7684\u524D\u8FDBING\u3002\u3002\u3002 - 51Testing\u8F6F\u4EF6\u6D4B\u8BD5\u7F51 51Testing\u8F6F\u4EF6\u6D4B\u8BD5\u7F51-\u4E2D\u56FD\u8F6F\u4EF6\u6D4B\u8BD5\u4EBA\u7684\u7CBE\u795E\u5BB6\u56ED - Powered by X-Space",
+               "type": "url",
+               "url": "http://www.51testing.com/html/00/130600-816588.html"
+            }, {
+               "date_added": "13028111845151759",
+               "id": "289",
+               "name": "Cacti \u2022 View topic - [HOWTO] Install and configure the Net-SNMP agent for Unix",
+               "type": "url",
+               "url": "http://forums.cacti.net/viewtopic.php?t=15353"
+            }, {
+               "date_added": "13028114785456014",
+               "id": "290",
+               "name": "Cacti\u64CD\u4F5C\u624B\u518C\u2014\u2014\u6DFB\u52A0\u76D1\u63A7\u8BBE\u5907 - \u6D82\u8001\u4E09\u7684\u4E2A\u4EBA\u7A7A\u95F4 - \u5F00\u6E90\u4E2D\u56FD\u793E\u533A",
+               "type": "url",
+               "url": "http://my.oschina.net/tulaosan/blog/56440"
+            }, {
+               "date_added": "13028182815806118",
+               "id": "291",
+               "name": "Cacti\u5B8C\u5168\u4F7F\u7528\u624B\u518C ( \u8BA9\u4F60\u5FEB\u901F\u4E2A\u6027\u5316\u4F7F\u7528Cacti ) - For The Dream - 51CTO\u6280\u672F\u535A\u5BA2",
+               "type": "url",
+               "url": "http://foreveryan.blog.51cto.com/3508502/775558"
+            }, {
+               "date_added": "13028185294176963",
+               "id": "292",
+               "name": "\u4F7F\u7528Cacti\u76D1\u63A7\u4F60\u7684\u7F51\u7EDC\uFF08\u4E09\uFF09- Cacti\u7684\u4F7F\u7528_Stone_\u65B0\u6D6A\u535A\u5BA2",
+               "type": "url",
+               "url": "http://blog.sina.com.cn/s/blog_4e424e2101000b6o.html"
+            }, {
+               "date_added": "13028193567616605",
+               "id": "293",
+               "name": "MRTG\u3001Cacti\u3001Rrdtool\u3001Nagios\u3001Zabbix\u5927\u6BD4\u62FC(1) - 51CTO.COM",
+               "type": "url",
+               "url": "http://os.51cto.com/art/201104/252820.htm"
+            }, {
+               "date_added": "13028193684148357",
+               "id": "294",
+               "name": "Cacti | \u62DB\u98CE\u8349\u7684\u4E16\u754C",
+               "type": "url",
+               "url": "http://www.zhaofengcao.com/archives/category/operationsystem/linux/cacti-linux"
+            }, {
+               "date_added": "13028197881825379",
+               "id": "295",
+               "name": "cacti\u6A21\u677F\u4E4B---\u7F51\u5361\u6D41\u91CF\u6C47\u603B - \u7EE7\u7EED\u594B\u6597 - 51CTO\u6280\u672F\u535A\u5BA2",
+               "type": "url",
+               "url": "http://yunwei.blog.51cto.com/381136/414317"
+            }, {
+               "date_added": "13028881246336643",
+               "id": "308",
+               "name": "\u767D\u8BDD\uFF0D\uFF0Drrdtool\u76F8\u5173\u57FA\u7840(From CU)_\u671D\u82B1\u5915\u62FE_\u767E\u5EA6\u7A7A\u95F4",
+               "type": "url",
+               "url": "http://hi.baidu.com/scstwy/item/542ac841ffe770e81f19bcf4"
+            }, {
+               "date_added": "13029483515773311",
+               "id": "312",
+               "name": "assets.nagios.com/downloads/nagioscore/docs/Installing_Nagios_Core_From_Source.pdf",
+               "type": "url",
+               "url": "http://assets.nagios.com/downloads/nagioscore/docs/Installing_Nagios_Core_From_Source.pdf"
+            }, {
+               "date_added": "13029487855770089",
+               "id": "313",
+               "name": "startup - Nagios 4: Can\u2019t open /etc/rc.d/init.d/functions - Stack Overflow",
+               "type": "url",
+               "url": "http://stackoverflow.com/questions/19606049/nagios-4-cant-open-etc-rc-d-init-d-functions"
+            }, {
+               "date_added": "13029488576725121",
+               "id": "314",
+               "name": "Nagios 3.x",
+               "type": "url",
+               "url": "http://nagios-cn.sourceforge.net/nagios-cn/"
+            }, {
+               "date_added": "13029999007187245",
+               "id": "319",
+               "name": "Nagios on nginx & Ubuntu 12.04 | idevit.nl",
+               "type": "url",
+               "url": "http://idevit.nl/node/93"
+            }, {
+               "date_added": "13030000785366232",
+               "id": "320",
+               "name": "Nginx\u4E0B\u642D\u5EFANagios\u76D1\u63A7\u5E73\u53F0 | Linux\u8FD0\u7EF4\u7B14\u8BB0",
+               "type": "url",
+               "url": "http://blog.linuxeye.com/312.html"
+            }, {
+               "date_added": "13031115015999492",
+               "id": "347",
+               "name": "Ganglia 3.1.x Installation and Configuration \u2013 ganglia",
+               "type": "url",
+               "url": "http://sourceforge.net/apps/trac/ganglia/wiki/Ganglia%203.1.x%20Installation%20and%20Configuration"
+            }, {
+               "date_added": "13031115040015246",
+               "id": "348",
+               "name": "\u701A\u6D77\u661F\u7A7A | \u7528ganglia\u76D1\u63A7hadoop",
+               "type": "url",
+               "url": "http://abloz.com/2012/09/19/ganglia-monitoring-hadoop.html"
+            }, {
+               "date_added": "13031115054023494",
+               "id": "349",
+               "name": "Ganglia Monitoring System",
+               "type": "url",
+               "url": "http://ganglia.info/?paged=2"
+            }, {
+               "date_added": "13033728269786465",
+               "id": "378",
+               "name": "Ubuntu\u4E0A\u5FEB\u901F\u642D\u5EFANagios\u76D1\u63A7 - julien\u7684\u4E2A\u4EBA\u9875\u9762 - \u5F00\u6E90\u4E2D\u56FD\u793E\u533A",
+               "type": "url",
+               "url": "http://my.oschina.net/julienbin/blog/69186"
+            }, {
+               "date_added": "13033728301499813",
+               "id": "379",
+               "name": "\u4E91\u76D1\u63A7 Nagios \u5B89\u88C5\u6B65\u9AA4 - duangr\u7684\u4E2A\u4EBA\u9875\u9762 - \u5F00\u6E90\u4E2D\u56FD\u793E\u533A",
+               "type": "url",
+               "url": "http://my.oschina.net/duangr/blog/183160"
+            }, {
+               "date_added": "13034227313839367",
+               "id": "380",
+               "name": "Python\u5199\u722C\u866B\u2014\u2014\u6293\u53D6\u7F51\u9875\u5E76\u89E3\u6790HTML \u2013 \u5C18\u57C3\u843D\u5B9A",
+               "type": "url",
+               "url": "http://www.lovelucy.info/python-crawl-pages.html"
+            }, {
+               "date_added": "13036657963352330",
+               "id": "381",
+               "name": "Cache\u4E0E\u5B58\u50A8 - \u5F20\u5BB4\u7684\u535A\u5BA2 - Web\u7CFB\u7EDF\u67B6\u6784\u4E0E\u5E95\u5C42\u7814\u53D1",
+               "type": "url",
+               "url": "http://blog.s135.com/category/13/1/1/"
+            } ],
+            "date_added": "13027677653775913",
+            "date_modified": "13036657963352330",
+            "id": "256",
+            "name": "\u7CFB\u7EDF\u76D1\u63A7",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13028623243581181",
+               "id": "299",
+               "name": "R\u5B89\u88C5",
+               "type": "url",
+               "url": "http://ftp.ctex.org/mirrors/CRAN/"
+            } ],
+            "date_added": "13028623253975888",
+            "date_modified": "13028779685753745",
+            "id": "300",
+            "name": "R\u8BED\u8A00",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13029231376563549",
+               "id": "310",
+               "name": "Chinese (China) Translation for salt | Transifex",
+               "type": "url",
+               "url": "https://www.transifex.com/projects/p/salt/language/zh_CN/"
+            } ],
+            "date_added": "13029231392732840",
+            "date_modified": "13029483515773311",
+            "id": "311",
+            "name": "\u7FFB\u8BD1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13029846415588488",
+               "id": "315",
+               "name": "Nginx proxy \u53CD\u5411\u4EE3\u7406 \u8F49\u767CTomcat | FAQ Book",
+               "type": "url",
+               "url": "http://blog.faq-book.com/?p=6745"
+            }, {
+               "date_added": "13033214653622085",
+               "id": "374",
+               "name": "Tomcat 7 - Logging to syslog with Log4j | badllama.com",
+               "type": "url",
+               "url": "http://www.badllama.com/content/tomcat-7-logging-syslog-log4j"
+            }, {
+               "date_added": "13033218786170567",
+               "id": "375",
+               "name": "Log4j\u8F93\u51FA\u65E5\u5FD7\u5230syslog | micmiu - \u8F6F\u4EF6\u5F00\u53D1+\u751F\u6D3B\u70B9\u6EF4",
+               "type": "url",
+               "url": "http://www.micmiu.com/opensource/log4j-syslog/"
+            } ],
+            "date_added": "13029846425542026",
+            "date_modified": "13033625429020177",
+            "id": "316",
+            "name": "tomcat",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13029847016921365",
+               "id": "317",
+               "name": "Nginx Location\u914D\u7F6E\u603B\u7ED3\u53CA\u57FA\u7840\u6700\u4F73\u5B9E\u8DF5 | \u542C\u96E8~\u6628\u591C\u5367\u542C\u98CE\u5439\u96E8\uFF0C\u4E0D\u82E5\u76F8\u5FD8\u4E8E\u6C5F\u6E56\u3002",
+               "type": "url",
+               "url": "http://cssor.com/nginx-location-configuration.html"
+            }, {
+               "date_added": "13031637883654548",
+               "id": "354",
+               "name": "\u9488\u5BF9VPS\u7684LNMP\u751F\u4EA7\u73AF\u5883\uFF1ACentOS+Nginx+MySQL+PHP\u67B6\u6784\u914D\u7F6E_\u6280\u672F\u6587\u6863_\u7EC4\u88C5\u7535\u8111\u4E4B\u5BB6",
+               "type": "url",
+               "url": "http://www.1987.name/515.html"
+            }, {
+               "date_added": "13033625429020177",
+               "id": "376",
+               "name": "NginxChs - Nginx Community",
+               "type": "url",
+               "url": "http://wiki.nginx.org/NginxChs"
+            }, {
+               "date_added": "13033634709419957",
+               "id": "377",
+               "name": "Online regex tester and debugger: JavaScript, Python, PHP, and PCRE",
+               "type": "url",
+               "url": "http://regex101.com/"
+            } ],
+            "date_added": "13029847026192946",
+            "date_modified": "13033728269786465",
+            "id": "318",
+            "name": "nginx",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13030089449095349",
+               "id": "321",
+               "name": "AskF5 | Manual Chapter: Configuring Layer 3 nPath Routing",
+               "type": "url",
+               "url": "http://support.f5.com/kb/en-us/products/big-ip_ltm/manuals/product/ltm-implementations-11-3-0/5.html"
+            }, {
+               "date_added": "13030089467334929",
+               "id": "323",
+               "name": "F5-npath\u6A21\u5F0F-\u8BF4\u660E-linux\u4E0A\u914D\u7F6E - \u7693\u6708\u65E0\u75D5\u6CFD\u54E5\u5730\u5E26 - 51CTO\u6280\u672F\u535A\u5BA2",
+               "type": "url",
+               "url": "http://lzspf.blog.51cto.com/843701/729930"
+            }, {
+               "date_added": "13030089473086912",
+               "id": "324",
+               "name": "F5-LTM\u65C1\u8DEF\u6A21\u5F0F/nPath\u6A21\u5F0F - Net130.com",
+               "type": "url",
+               "url": "http://www.net130.com/CMS/Pub/special/special_F5/2009_11_07_96681.htm"
+            }, {
+               "date_added": "13030093663363492",
+               "id": "325",
+               "name": "exp_continue \u00BB \u6211\u6709\u5206\u5BF8",
+               "type": "url",
+               "url": "http://wangxu.me/blog/p/tag/exp_continue"
+            } ],
+            "date_added": "13030089465014244",
+            "date_modified": "13030449748359970",
+            "id": "322",
+            "name": "f5-npath",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13030449748359970",
+               "id": "326",
+               "name": "MYSQL\u6570\u636E\u5E93\u5907\u4EFD\u7CBE\u5F69\u535A\u5BA2\u6587\u7AE0\u63A8\u8350_ChinaUnix\u535A\u5BA2\u4E13\u9898_ChinaUnix.net",
+               "type": "url",
+               "url": "http://www.it168.com/redian/mysqlbf/"
+            }, {
+               "date_added": "13030449771483899",
+               "id": "328",
+               "name": "linux\u5B9A\u671F\u81EA\u52A8\u5907\u4EFDmysql\u7684shell\u811A\u672C | RHEL/CentOS\u6559\u7A0B | Linux\u670D\u52A1\u5668 | \u7FBD\u98DE\u535A\u5BA2",
+               "type": "url",
+               "url": "http://www.opsers.org/server/linux-automatically-backup-the-mysql-shell-script-on-a-regular-basis.html"
+            }, {
+               "date_added": "13030449775252149",
+               "id": "329",
+               "name": "mysql\u81EA\u52A8\u5907\u4EFD\u811A\u672C | \u60DC\u5206\u98DE",
+               "type": "url",
+               "url": "http://www.xifenfei.com/940.html"
+            }, {
+               "date_added": "13030449780996179",
+               "id": "330",
+               "name": "Python\uFF1AMySQL\u5907\u4EFD\u811A\u672C\u53CA\u5220\u9664\u6307\u5B9A\u76EE\u5F55\u4E0B\u8FC7\u671F\u6587\u4EF6-wwamiss-ChinaUnix\u535A\u5BA2",
+               "type": "url",
+               "url": "http://blog.chinaunix.net/uid-12786753-id-4014193.html"
+            }, {
+               "date_added": "13030449784731674",
+               "id": "331",
+               "name": "\u670D\u52A1\u5668\u6570\u636E\u5907\u4EFD\uFF08shell \u5B9A\u65F6\u811A\u672C\u5907\u4EFDmysql\uFF09 - DWZ\u5BCC\u5BA2\u6237\u7AEF-jUI - \u535A\u5BA2\u56ED",
+               "type": "url",
+               "url": "http://www.cnblogs.com/dwzjs/archive/2011/04/25/2027687.html"
+            } ],
+            "date_added": "13030449766779826",
+            "date_modified": "13030533758937971",
+            "id": "327",
+            "name": "mysql",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13030533758937971",
+               "id": "332",
+               "name": "rrdtool - Python (PyRRD) and RRD with while loop? - Stack Overflow",
+               "type": "url",
+               "url": "http://stackoverflow.com/questions/15839124/python-pyrrd-and-rrd-with-while-loop"
+            }, {
+               "date_added": "13030542848764185",
+               "id": "334",
+               "name": "python\u4E4Bsqlite3\u4F7F\u7528\u8BE6\u89E3 - \u963F\u82F1\u7684\u65E5\u5FD7 - \u7F51\u6613\u535A\u5BA2",
+               "type": "url",
+               "url": "http://anony3721.blog.163.com/blog/static/5119742010716104442536/"
+            }, {
+               "date_added": "13030542853324745",
+               "id": "335",
+               "name": "\u79D1\u5B66\u7F51\u2014[\u8F6C\u8F7D]python \u4F7F\u7528sqlite3 - \u5434\u65B0\u661F\u7684\u535A\u6587",
+               "type": "url",
+               "url": "http://blog.sciencenet.cn/blog-47522-693982.html"
+            }, {
+               "date_added": "13030547612797817",
+               "id": "336",
+               "name": "Using RRD with Python: short introduction",
+               "type": "url",
+               "url": "http://supportex.net/2011/09/rrd-python/"
+            } ],
+            "date_added": "13030533790903863",
+            "date_modified": "13030616642697678",
+            "id": "333",
+            "name": "python-rrd",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13030772668126515",
+               "id": "342",
+               "name": "Zabbix.org",
+               "type": "url",
+               "url": "https://www.zabbix.org/wiki/Main_Page"
+            }, {
+               "date_added": "13031128014085743",
+               "id": "350",
+               "name": "Monitoring network connection states with Zabbix (+ iptables + iptstate) \u00BB Daniel Portwood",
+               "type": "url",
+               "url": "http://blog.portwd.com/sysadmin/monitoring-iptables-with-zabbix/"
+            }, {
+               "date_added": "13031135402277648",
+               "id": "351",
+               "name": "zabbix\u4E2D\u6587\u914D\u7F6E\u6307\u5357 - \u865A\u62DF\u7684\u73B0\u5B9E - 51CTO\u6280\u672F\u535A\u5BA2",
+               "type": "url",
+               "url": "http://waringid.blog.51cto.com/65148/955939"
+            }, {
+               "date_added": "13031138003240329",
+               "id": "352",
+               "name": "Tired of Nagios and Cacti? Try Zabbix. | workaround.org",
+               "type": "url",
+               "url": "https://workaround.org/try-zabbix"
+            }, {
+               "date_added": "13031299589799441",
+               "id": "353",
+               "name": "[\u6700\u8FD1\u6298\u817E]zabbix\u90E8\u7F72\u8BB0\u5F55 - skidu",
+               "type": "url",
+               "url": "http://www.skidu.me/zabbix.html"
+            }, {
+               "date_added": "13031656111958414",
+               "id": "355",
+               "name": "zabbix\u4E2D\u6587\u6587\u6863\u4E0Ezabbix\u4E2D\u6587\u624B\u518C\u9605\u8BFB - Linux\u5927\u5E08\u4E4B\u8DEF\uFF1A\u6210\u5C31linux\u5927\u5E08\u68A6\u60F3",
+               "type": "url",
+               "url": "http://www.linuxmr.com/zabbix2/index.html"
+            }, {
+               "date_added": "13031658597508781",
+               "id": "356",
+               "name": "Zabbix\u4E4B\u914D\u7F6E\u6587\u4EF6\u8BE6\u89E3 - \u6D6A\u6DD8\u6C99 - 51CTO\u6280\u672F\u535A\u5BA2",
+               "type": "url",
+               "url": "http://caisangzi.blog.51cto.com/6387416/1303431"
+            }, {
+               "date_added": "13032330190946547",
+               "id": "366",
+               "name": "SysAdmin Adventures \u00BB Zabbix :: Guest Account when using LDAP Auth",
+               "type": "url",
+               "url": "http://blog.tpa.me.uk/2013/08/02/zabbix-guest-account-when-using-ldap-auth/"
+            }, {
+               "date_added": "13032333822800457",
+               "id": "368",
+               "name": "zabbix\u4F18\u5316\u6307\u5357_polygun2000_\u65B0\u6D6A\u535A\u5BA2",
+               "type": "url",
+               "url": "http://blog.sina.com.cn/s/blog_704836f40101g0fb.html"
+            }, {
+               "date_added": "13032335807293155",
+               "id": "369",
+               "name": "\u5220\u9664zabbix \u5386\u53F2\u6570\u636E - leek2006\u7684\u65E5\u5FD7 - \u7F51\u6613\u535A\u5BA2",
+               "type": "url",
+               "url": "http://leek2006.blog.163.com/blog/static/89085615201261210055637/"
+            }, {
+               "date_added": "13032336046217665",
+               "id": "370",
+               "name": "zabbix\u7684\u5E93\u589E\u957F\u8FC7\u5FEB\uFF0C\u5982\u4F55\u6539\u6210\u72EC\u7ACB\u8868\u7A7A\u95F4\u7684\u6A21\u5F0F - ChinaUnix\u95EE\u7B54",
+               "type": "url",
+               "url": "http://ask.chinaunix.net/question/921"
+            }, {
+               "date_added": "13032604118789207",
+               "id": "372",
+               "name": "zabbix \u5B89\u88C5\u4F7F\u7528\u624B\u518C(HA)-1 - lan2003 - 51CTO\u6280\u672F\u535A\u5BA2",
+               "type": "url",
+               "url": "http://lan2003.blog.51cto.com/252098/1221149"
+            }, {
+               "date_added": "13032604126181555",
+               "id": "373",
+               "name": "zabbix \u5B89\u88C5\u4F7F\u7528\u624B\u518C(HA)-2 - lan2003 - 51CTO\u6280\u672F\u535A\u5BA2",
+               "type": "url",
+               "url": "http://lan2003.blog.51cto.com/252098/1221314"
+            } ],
+            "date_added": "13030772678173194",
+            "date_modified": "13033214653622085",
+            "id": "343",
+            "name": "zabbix",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13031918913735037",
+               "id": "358",
+               "name": "Zabbix\u76D1\u63A7\u4E4BJMX\u534F\u8BAE - Zabbix - \u8FD0\u7EF4\u7F51 - yunvn.com",
+               "type": "url",
+               "url": "http://www.yunvn.com/thread-9463-1-1.html"
+            }, {
+               "date_added": "13031984684154460",
+               "id": "360",
+               "name": "Zabbix \u4F7F\u7528 JMX \u65B9\u5F0F\u76D1\u63A7 Tomcat - Water is\u2026..",
+               "type": "url",
+               "url": "http://latteye.com/2012/09/zabbix-%E4%BD%BF%E7%94%A8-jmx-%E6%96%B9%E5%BC%8F%E7%9B%91%E6%8E%A7-tomcat.html"
+            } ],
+            "date_added": "13031918936054912",
+            "date_modified": "13031984684154460",
+            "id": "359",
+            "name": "tomcat",
+            "type": "folder"
+         } ],
+         "date_added": "13021713033610296",
+         "date_modified": "13032008148095784",
+         "id": "1",
+         "name": "Bookmarks Bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13025340697362058",
+            "id": "127",
+            "name": "\u76AE\u76AE\u4E66\u5C4B \u00BB \u5206\u4EAB\u7535\u5B50\u4E66",
+            "type": "url",
+            "url": "http://www.ppurl.com/"
+         }, {
+            "date_added": "13025341091385738",
+            "id": "128",
+            "name": "Postfix \u6B63\u9AD4\u4E2D\u6587\u9996\u9801",
+            "type": "url",
+            "url": "http://postfix.fsftw.org/"
+         }, {
+            "date_added": "13029213800972077",
+            "id": "309",
+            "name": "Bash Reference Manual",
+            "type": "url",
+            "url": "http://www.gnu.org/software/bash/manual/bash.html"
+         }, {
+            "date_added": "13031113405448172",
+            "id": "344",
+            "name": "V2EX",
+            "type": "url",
+            "url": "http://v2ex.com/"
+         }, {
+            "date_added": "13031659578284521",
+            "id": "357",
+            "name": "Zabbix \u5206\u7C7B | \u9759\u601D\u5B66\u5427",
+            "type": "url",
+            "url": "http://www.jsxubar.info/category/system-administration/zabbix/"
+         } ],
+         "date_added": "13021713033610310",
+         "date_modified": "13031918913735037",
+         "id": "2",
+         "name": "Other Bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13021713033610311",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile Bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
